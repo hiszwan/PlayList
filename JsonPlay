@@ -16,10 +16,6 @@
 			"name": "Lokal"
 		},
 		{
-			"id": 3,
-			"name": "Religi"
-		},
-		{
 			"id": 4,
 			"name": "Pengetahuan"
 		},
@@ -42,6 +38,10 @@
 		{
 			"id": 10,
 			"name": "Internasional"
+		},
+		{
+			"id": 11,
+			"name": "Religi"
 		}
 	],
 	"channels": [
@@ -1075,7 +1075,7 @@
 			"stream_url": "http://122.248.43.138:1935/ch20/myStream/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "AHSAN TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1087,7 +1087,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch4.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Ajwa TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1100,7 +1100,7 @@
 			"stream_url": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=altec&channel=7464.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Al-Furqon TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1112,7 +1112,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch24.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "AL-BAHJAH TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1125,7 +1125,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/albahjah-rtmp.stream/playlist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Al Quran Al Kareem",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1137,7 +1137,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Al Sunnah Al Nabawiyah",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1149,7 +1149,7 @@
 			"stream_url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Al-Iman TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1161,7 +1161,7 @@
 			"stream_url": "http://tv.aliman.id:1935/aliman/HD/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Alwafa TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1173,7 +1173,7 @@
 			"stream_url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Ashiil TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1185,7 +1185,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch2.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Bina Madani TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1197,7 +1197,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch20.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Binbaz TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1209,7 +1209,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch22.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Insan TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1221,7 +1221,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch1.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Citra Muslim",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1234,7 +1234,7 @@
 			"stream_url": "https://mibitivi.xyz/vd/ch/play.m3u8?tekon=altec&channel=6678.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Fatwa TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1246,7 +1246,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCWcErqFw28UlHluawiWLO2g"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Hijrah TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1258,7 +1258,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "IAM",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1270,7 +1270,7 @@
 			"stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Izzah TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1282,7 +1282,7 @@
 			"stream_url": "https://streaming.sigraduta.co.id/izzahtv.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Meds TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1294,7 +1294,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch23.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "MGI TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1306,7 +1306,7 @@
 			"stream_url": "https://tv.rodja.live/tasik/mgitv/playlist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "MHO TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1318,7 +1318,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch19.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "MNC Muslim",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1330,7 +1330,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "MQTV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1343,7 +1343,7 @@
 			"stream_url_1": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "mtatv",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1355,7 +1355,7 @@
 			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Muadz TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1367,7 +1367,7 @@
 			"stream_url": "http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Muslimah TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1379,7 +1379,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/muslimahtv-rtmp.stream/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Nabawi TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1391,7 +1391,7 @@
 			"stream_url": "https://alfa.kugo.id/nabawitv/nabawitv/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "SalingSapa TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1403,7 +1403,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/salingsapatv-rtmp.stream/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Medina TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1415,7 +1415,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/medinatv-rtmp.stream/playlist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Niaga TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1427,7 +1427,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch10.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Radio Kita TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1439,7 +1439,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch16.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Rasyaad TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1451,7 +1451,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch6.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Rodja TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1463,7 +1463,7 @@
 			"stream_url": "http://vids.rodja.tv:1935/live/rodja/chunklist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Salam TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1475,7 +1475,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch12.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Sunnah Jalan Pasti TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1487,7 +1487,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch17.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Surau TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1499,7 +1499,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch3.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Tarbiyah Sunnah",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1511,7 +1511,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCM73P3XvOfj0HjC97KKYW5g"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Tawaf TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1523,7 +1523,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "TV Muhammadiyah",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1535,7 +1535,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "TV MUI",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1548,7 +1548,7 @@
 			"stream_url_1": "https://mui.siar.us/mui/live/playlist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "TV9",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1560,7 +1560,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "U Channel",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1572,7 +1572,7 @@
 			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=uchannel"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Qur'an TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1584,7 +1584,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/qurantv-rtmp.stream/playlist.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Wesal TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1596,7 +1596,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch18.m3u8"
 		},
 		{
-			"cid": 3,
+			"cid": 11,
 			"name": "Yufid TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
