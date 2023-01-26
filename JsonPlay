@@ -32,15 +32,15 @@
 			"name": "Anak"
 		},
 		{
-			"id": 8,
+			"id": 7,
 			"name": "Musik"
 		},
 		{
-			"id": 10,
+			"id": 8,
 			"name": "Internasional"
 		},
 		{
-			"id": 11,
+			"id": 9,
 			"name": "Religi"
 		}
 	],
@@ -2777,7 +2777,7 @@
 			"stream_url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "MUSICA",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2790,7 +2790,7 @@
 			"stream_url_1": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=altec&channel=7619.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Nagaswara",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2802,7 +2802,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=Is03gZsBeq0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "AQUARIUS",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2814,7 +2814,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCpJRmMTfdv0iPbnjo6qBw_g"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "The Good Life",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2826,7 +2826,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=36YnV9STBqc"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "The Good Life - Chillout Lounge",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2838,7 +2838,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=9UMxZofMNbA"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "The Good Life - Deep House",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2850,7 +2850,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=19hKXI1ENrY"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Coffee Shop Vibes",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2862,7 +2862,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCJIOFQLGwB3GH9K9waxwynQ"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Cafe Music BGMC - Work & Jazz Piano",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2874,7 +2874,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=Dx5qFachd3A"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Cafe Music BGMC - Tokyo Cafe",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2886,7 +2886,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=6uddGul0oAc"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Cafe Music BGMC - Rainy Jazz",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2898,7 +2898,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=DSGyEsJ17cI"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Cafe Music BGMC - Living Coffee",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2910,7 +2910,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=SORD03t7nlo"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Cafe Music BGMC - Work Cafe",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2922,7 +2922,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=SN-E6bO0Te0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Cafe Music BGMC - Disney Jazz",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2934,7 +2934,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=2HQag9B4nN0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "4Fun TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2946,7 +2946,7 @@
 			"stream_url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Afrobeats",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2958,7 +2958,7 @@
 			"stream_url": "https://stream.ecable.tv/afrobeats/playlist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Baraza Hits",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2970,7 +2970,7 @@
 			"stream_url": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Clubbing TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -2982,7 +2982,7 @@
 			"stream_url": "https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "i konser",
 			"typedrm": "widevine",
 			"useragent": "MlBlTlVl",
@@ -3000,7 +3000,7 @@
 			"stream_url_2": "https://hz.mibitivi.xyz/mibi/sc/ch/ikonser.m3u8?tekon=altec"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Maleo",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3012,7 +3012,7 @@
 			"stream_url": "https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Pop Musik",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3024,7 +3024,7 @@
 			"stream_url": "https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Magic Music",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3036,7 +3036,7 @@
 			"stream_url": "https://itv.streams.ovh/magictv/magictv/chunklist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "MTV Live",
 			"typedrm": "widevine",
 			"useragent": "MlBlTlVl",
@@ -3053,7 +3053,7 @@
 			"stream_url": "https://hz.mibitivi.xyz/mibi/sc/ch/mtvlive.m3u8?tekon=altec"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "MTV Biggest Pop",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3065,7 +3065,7 @@
 			"stream_url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "MTV Block Party",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3077,7 +3077,7 @@
 			"stream_url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "MTV Spankin New",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3089,7 +3089,7 @@
 			"stream_url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "MTV Yo!",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3101,7 +3101,7 @@
 			"stream_url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Musik Indonesia",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3113,7 +3113,7 @@
 			"stream_url": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=altec&channel=musikindo"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Music TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3125,7 +3125,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "NG Radio",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3137,7 +3137,7 @@
 			"stream_url": "http://live.streams.ovh:1935/NGradio/NGradio/chunklist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Play Music",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3149,7 +3149,7 @@
 			"stream_url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Prambors TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3161,7 +3161,7 @@
 			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=pramborstv"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Q Music",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3173,7 +3173,7 @@
 			"stream_url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Showbiz",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3185,7 +3185,7 @@
 			"stream_url": "http://rr3.dens.tv/s/s113/index.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Classic Rock",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3197,7 +3197,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/101/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Alternative",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3209,7 +3209,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/102/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Hot Country",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3221,7 +3221,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/108/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Pop Adult",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3233,7 +3233,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/104/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Hit List",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3245,7 +3245,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/107/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Flashback 70S",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3257,7 +3257,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/115/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Remember The 80S",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3269,7 +3269,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/128/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Hip-Hop/R&B",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3281,7 +3281,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/133/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Soul Storm STORM",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3293,7 +3293,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/134/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Greatest Hits",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3305,7 +3305,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/155/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "Stingray Exitos Del Momento",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3317,7 +3317,7 @@
 			"stream_url": "https://stirr.ott-channels.stingray.com/190/master.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "V2 Beat",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3329,7 +3329,7 @@
 			"stream_url": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "VEVO 70'S",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3341,7 +3341,7 @@
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/1d158533-4c2c-4f85-8afd-5c0cbcdcb90a/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "VEVO 80'S",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3353,7 +3353,7 @@
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/43501a2e-2968-4f0a-9974-5f5683f1f0db/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "VEVO 90'S",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3365,7 +3365,7 @@
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/350f636b-2a16-48a8-9dfd-208857d4c1a7/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "VEVO 2K",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3377,7 +3377,7 @@
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/085b69d0-8c20-45f3-b57d-7845972596d9/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "VEVO POP",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3389,7 +3389,7 @@
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/f01ebfed-7ad5-4d03-b1ca-023870fcb436/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "VEVO R&B",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3401,7 +3401,7 @@
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/6bc0815e-fe9a-464b-9d20-af824e8dcdc5/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "VEVO COUNTRY",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3413,7 +3413,7 @@
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/a7f46d76-39c5-4794-883c-4d22a9c41fde/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=truea&startingOffset=0"
 		},
 		{
-			"cid": 8,
+			"cid": 7,
 			"name": "VEVO REGGAETON&TRAP",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3425,7 +3425,7 @@
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/fc027a03-e512-45db-98af-879f6889407f/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Anhui TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3437,7 +3437,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "CCTV4",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3449,7 +3449,7 @@
 			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=cctv4"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "ctiasia",
 			"typedrm": "widevine",
 			"useragent": "MlBlTlVl",
@@ -3466,7 +3466,7 @@
 			"stream_url": "https://mibitivi.xyz/sc/play2.mpd?tekon=altec&channel=CTIASIA_AT"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Hunan TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3478,7 +3478,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Jiangsu TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3490,7 +3490,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Shanghai Dragon TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3502,7 +3502,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "XingKong TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3514,7 +3514,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Arirang",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3526,7 +3526,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "ABC Australia",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3538,7 +3538,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "ABC News Live",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3550,7 +3550,7 @@
 			"stream_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "AL JAZEERA",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3562,7 +3562,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "BBC World News",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3574,7 +3574,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Bloomberg",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3586,7 +3586,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "CGTN",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3598,7 +3598,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Channel News Asia",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3610,7 +3610,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "CNBC",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3622,7 +3622,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "CNN International",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3634,7 +3634,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "DW",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3646,7 +3646,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Euro News",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3658,7 +3658,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "Fox News",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3670,7 +3670,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "France24",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3682,7 +3682,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "NHK World",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3694,7 +3694,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "NHK World Premium",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3706,7 +3706,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "RT English",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3718,7 +3718,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "SKY News",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3730,7 +3730,7 @@
 			"stream_url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "SKY News Extra",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3742,7 +3742,7 @@
 			"stream_url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"
 		},
 		{
-			"cid": 10,
+			"cid": 8,
 			"name": "TRT World",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3754,7 +3754,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "AHSAN TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3766,7 +3766,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch4.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Ajwa TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3779,7 +3779,7 @@
 			"stream_url": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=altec&channel=7464.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Al-Furqon TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3791,7 +3791,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch24.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "AL-BAHJAH TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3804,7 +3804,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/albahjah-rtmp.stream/playlist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Al Quran Al Kareem",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3816,7 +3816,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Al Sunnah Al Nabawiyah",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3828,7 +3828,7 @@
 			"stream_url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Al-Iman TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3840,7 +3840,7 @@
 			"stream_url": "http://tv.aliman.id:1935/aliman/HD/chunklist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Alwafa TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3852,7 +3852,7 @@
 			"stream_url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Ashiil TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3864,7 +3864,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch2.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Bina Madani TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3876,7 +3876,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch20.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Binbaz TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3888,7 +3888,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch22.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Insan TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3900,7 +3900,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch1.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Citra Muslim",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3913,7 +3913,7 @@
 			"stream_url": "https://mibitivi.xyz/vd/ch/play.m3u8?tekon=altec&channel=6678.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Fatwa TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3925,7 +3925,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCWcErqFw28UlHluawiWLO2g"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Hijrah TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3937,7 +3937,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "IAM",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3949,7 +3949,7 @@
 			"stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Izzah TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3961,7 +3961,7 @@
 			"stream_url": "https://streaming.sigraduta.co.id/izzahtv.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Meds TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3973,7 +3973,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch23.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "MGI TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3985,7 +3985,7 @@
 			"stream_url": "https://tv.rodja.live/tasik/mgitv/playlist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "MHO TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -3997,7 +3997,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch19.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "MNC Muslim",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4009,7 +4009,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "MQTV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4022,7 +4022,7 @@
 			"stream_url_1": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "mtatv",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4034,7 +4034,7 @@
 			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Muadz TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4046,7 +4046,7 @@
 			"stream_url": "http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Muslimah TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4058,7 +4058,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/muslimahtv-rtmp.stream/chunklist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Nabawi TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4070,7 +4070,7 @@
 			"stream_url": "https://alfa.kugo.id/nabawitv/nabawitv/chunklist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "SalingSapa TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4082,7 +4082,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/salingsapatv-rtmp.stream/chunklist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Medina TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4094,7 +4094,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/medinatv-rtmp.stream/playlist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Niaga TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4106,7 +4106,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch10.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Radio Kita TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4118,7 +4118,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch16.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Rasyaad TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4130,7 +4130,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch6.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Rodja TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4142,7 +4142,7 @@
 			"stream_url": "http://vids.rodja.tv:1935/live/rodja/chunklist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Salam TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4154,7 +4154,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch12.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Sunnah Jalan Pasti TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4166,7 +4166,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch17.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Surau TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4178,7 +4178,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch3.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Tarbiyah Sunnah",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4190,7 +4190,7 @@
 			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCM73P3XvOfj0HjC97KKYW5g"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Tawaf TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4202,7 +4202,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "TV Muhammadiyah",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4214,7 +4214,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "TV MUI",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4227,7 +4227,7 @@
 			"stream_url_1": "https://mui.siar.us/mui/live/playlist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "TV9",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4239,7 +4239,7 @@
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "U Channel",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4251,7 +4251,7 @@
 			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=uchannel"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Qur'an TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4263,7 +4263,7 @@
 			"stream_url": "https://bravo.kugo.id/kugo/qurantv-rtmp.stream/playlist.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Wesal TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -4275,7 +4275,7 @@
 			"stream_url": "https://h1.intechmedia.net/intech/ch18.m3u8"
 		},
 		{
-			"cid": 11,
+			"cid": 9,
 			"name": "Yufid TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
