@@ -340,18 +340,6 @@
 		},
 		{
 			"cid": 2,
-			"name": "AFBTV Kupang",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6Ss_pSHW8ziCi36e9BTgCgQtk9Z1DNhhrwOw0LvYutHkfXtXuv2YYpsAsKllIsOXv15pOdTNdQZZlmAA_wloB03Oi2HdG8LXRSP2Hyz9Azakppxm9t7A_HwZL8-4uLWBCFSAVpCD-Ezi4eaoHIrfMMzj-Wunr5AxgWszUU_X9dpvP_9zGh-y4e7q/s720/Untitled-7.png",
-			"stream_url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/afbtv.m3u8"
-		},
-		{
-			"cid": 2,
 			"name": "Arek TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -413,7 +401,7 @@
 		},
 		{
 			"cid": 2,
-			"name": "BATAKVIA",
+			"name": "Batakvia",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
@@ -462,18 +450,6 @@
 		},
 		{
 			"cid": 2,
-			"name": "DIGDAYA TV",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"poster": "https://1.bp.blogspot.com/-YatzFSZUN7M/YJVhbC_ABuI/AAAAAAAAEck/LujTL4_at-ksuDAr_s-jXSTnBfhUik5hgCLcBGAsYHQ/s720/digdayatv-p.png",
-			"stream_url": "http://ms.digdaya.tv/live/digdayatv/live.m3u8"
-		},
-		{
-			"cid": 2,
 			"name": "DM TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -507,18 +483,6 @@
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-jp09w23TlEs/YVBYPc6x1xI/AAAAAAAAH0A/T7ISEMCqTkElMZYpCYjeHs_8S77oPs73wCLcBGAsYHQ/s720/DutaTV-p.png",
 			"stream_url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
-		},
-		{
-			"cid": 2,
-			"name": "Elshinta TV",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"poster": "https://1.bp.blogspot.com/-0BklHTgMwfc/YJVhbV_TuYI/AAAAAAAAEco/SqJUCZYTF8Qr8lm_Jg3dn2Vpf3QGzwEoACLcBGAsYHQ/s720/elshinta-p.png",
-			"stream_url": "http://rrelshinta.dens.tv/s/s10/index.m3u8"
 		},
 		{
 			"cid": 2,
