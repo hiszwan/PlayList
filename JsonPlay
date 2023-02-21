@@ -1,9 +1,9 @@
 {
   "licenses": [
     {
-      "domain": "https://av-live-cdn.mncnow.id",
+      "domain": "https://anevi-live-channel-cdn",
       "drm_multi_session": true,
-      "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz"
     }
   ],
   "categories": [
@@ -51,7 +51,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-N_0k0cSR1zk/YJVWtdKJoGI/AAAAAAAAEaA/ivzKsgr5DuA_0HYBROzCr_7rSR62H5_sQCLcBGAsYHQ/s720/ANTV-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
 		},
 		{
 			"cid": 1,
@@ -63,7 +63,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-9c5Jzd9Z09k/YJVWtR_2VXI/AAAAAAAAEaE/h1Mv7UovDtQg24vT4UJ5-IcMEWsjhOVdwCLcBGAsYHQ/s720/beritasatu-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd"
 		},
 		{
 			"cid": 1,
@@ -111,7 +111,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-1SYFYhaX244/YJVWuMAKsII/AAAAAAAAEaM/2MVOksF7zywOgIvVRtiU-CYmUOH1O72fwCLcBGAsYHQ/s720/gtv-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
 		},
 		{
 			"cid": 1,
@@ -123,7 +123,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-RuwMkAyJNiM/YJVWuQyj81I/AAAAAAAAEaQ/rzSkWxhVddIh0ffNI4NAH4GZJOClv7SMwCLcBGAsYHQ/s720/idx-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd"
 		},
 		{
 			"cid": 1,
@@ -149,7 +149,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-HO7MEYgw8XI/YJVWu5J6BcI/AAAAAAAAEaY/j2QsI1OvKw0EetGC1RiKf7yV983t8mkxQCLcBGAsYHQ/s720/inews-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
 		},
 		{
 			"cid": 1,
@@ -173,7 +173,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-vZkSuukilak/YJVWvXLIcGI/AAAAAAAAEag/c_QpT8PWTbckA64ywE3XGzZ1LFST4ko-gCLcBGAsYHQ/s720/kompas-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
 		},
 		{
 			"cid": 1,
@@ -185,7 +185,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-_XuQe7eZJgI/YJVWv_AXahI/AAAAAAAAEak/4DyahSG4SOkTWaJ6y16bUGt54jbx93D0ACLcBGAsYHQ/s720/metro-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd"
 		},
 		{
 			"cid": 1,
@@ -197,7 +197,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-Op3VGq8vUzc/YJVY9iFeJ_I/AAAAAAAAEbo/1m1EGKpEySUcSZsWNRhidPBSuHX9EBzugCLcBGAsYHQ/s720/MNC%2BNews-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd"
 		},
 		{
 			"cid": 1,
@@ -209,7 +209,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-43BPxohkbnE/YJVWwOSssDI/AAAAAAAAEas/rKuDEoOcvFco7fEXdJlhzXXDqPnco94wwCLcBGAsYHQ/s720/mnc-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
 		},
 		{
 			"cid": 1,
@@ -234,7 +234,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-zuu6vvy1JRU/YJVWw7402NI/AAAAAAAAEaw/jPkpJv9JFJYAWwnDYp4sfTzlKOUm_CtAACLcBGAsYHQ/s720/net-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd"
 		},
 		{
 			"cid": 1,
@@ -246,7 +246,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-ttxgG7g-CAI/YJVWw4xpJtI/AAAAAAAAEa0/p7l4XNFPt5M7dpl9WeMBXMNnWCfklN1xwCLcBGAsYHQ/s720/rcti-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
 		},
 		{
 			"cid": 1,
@@ -258,7 +258,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-k9KcQn7rFag/YJVWxNELbgI/AAAAAAAAEa4/KQG3ayvqIJw919i2M1AYPf6jh_7TWzpHwCLcBGAsYHQ/s720/rtv-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
 		},
 		{
 			"cid": 1,
@@ -284,7 +284,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-2OB89yMf1x4/YJVWx6maqBI/AAAAAAAAEbE/XvZpwUPalxAot86riP6LUkw5RNRaNWHeQCLcBGAsYHQ/s720/trans7-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd"
 		},
 		{
 			"cid": 1,
@@ -296,7 +296,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-k9jeEmQ0zvA/YJVWxm2wOlI/AAAAAAAAEbA/P0QG8KqOe5oE1C8soEtwQD-CbmC7Z357wCLcBGAsYHQ/s720/trans-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd"
 		},
 		{
 			"cid": 1,
@@ -308,7 +308,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-8VGJPEoUglI/YJVWyqTsIDI/AAAAAAAAEbI/Ryk_TKPSfDwKzwNVRUffUY7t7CPsrjlTwCLcBGAsYHQ/s720/tvone-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
 		},
 		{
 			"cid": 1,
@@ -320,7 +320,7 @@
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd"
 		},
 		{
 			"cid": 2,
@@ -381,7 +381,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-NpAyBNwpkAM/YJVhXYzEkQI/AAAAAAAAEb0/qv2ceDDyO_gLmMhT7ktEqweSUHFHAfKlwCLcBGAsYHQ/s720/bali-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd"
 		},
 		{
 			"cid": 2,
@@ -393,7 +393,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-8kxcPDYzzME/YJVhYKqRuwI/AAAAAAAAEb8/6ctepuoXXJgHsGnct4i2433N2zsNlUqmwCLcBGAsYHQ/s720/bandungtv-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd"
 		},
 		{
 			"cid": 2,
@@ -502,7 +502,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-6PBf-v_bghQ/YJVhb9nF4VI/AAAAAAAAEcw/e21-uVWMfAI51rpn4ph8-qfxXm6DxUlVgCLcBGAsYHQ/s720/jak-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
 		},
 		{
 			"cid": 2,
@@ -538,7 +538,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/--WgRyucHPS0/YJVhdFqfwbI/AAAAAAAAEdI/o8J8CUT6tJ4ftHHX7xhCcCV19UQuBRSpwCLcBGAsYHQ/s720/jtv-p.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd"
 		},
 		{
 			"cid": 2,
@@ -694,7 +694,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-0FX4gcEwYr0/YJZOZHjhfzI/AAAAAAAAEqA/qlzpYQuFiH8fL9LyTTKC-z1oY0MTPQ2-ACLcBGAsYHQ/s720/Animax-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
 		},
 		{
 			"cid": 3,
@@ -718,7 +718,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-2WU_hBF50zo/YJZOhflz6CI/AAAAAAAAErc/mNfIhmnd70YMGz7fPMrN4rk8Q-6UwVlvACLcBGAsYHQ/s720/axn-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
 		},
 		{
 			"cid": 3,
@@ -730,7 +730,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-oTeAtQ45GKM/YJZOhnNjGRI/AAAAAAAAErk/t5l4A0JpU6QCwbJr6jkcEg4_RU4GtmIqgCLcBGAsYHQ/s720/ccm-p%2B%25282%2529.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
 		},
 		{
 			"cid": 3,
@@ -742,7 +742,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-j0vYn2Bx7z8/YJZOiNHodAI/AAAAAAAAEro/EQ8hL5eA_qMBv0tlKKt07DZxj-JuhfXLQCLcBGAsYHQ/s720/celestial-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
 		},
 		{
 			"cid": 3,
@@ -754,7 +754,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-WQEXvzhCJXE/YJZOigrvW8I/AAAAAAAAErw/SgnE9LOF8ZkmfnClCEk9-1cEENw7wpMPQCLcBGAsYHQ/s720/cinemaworld-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
 		},
 		{
 			"cid": 3,
@@ -766,7 +766,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-5c7cU3ULocM/YJZOZAwEdxI/AAAAAAAAEp8/hmQSk7dXX1gqj1VRIEsa4DO-QsSVLsK-gCLcBGAsYHQ/s720/CINEMAX-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
 		},
 		{
 			"cid": 3,
@@ -779,7 +779,7 @@
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-6HePQlFASpo/YJZOcnrBqfI/AAAAAAAAEqg/zNA57uacoLEngOlQMJY-slEdtskRreLgwCLcBGAsYHQ/s720/GALAXY-Poster.png",
 			"stream_url_1": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=galaxy",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd"
 		},
 		{
 			"cid": 3,
@@ -792,7 +792,7 @@
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-MLq8LGEIGH8/YJZOj0MUBQI/AAAAAAAAEr8/UdCQzXaInxgszTEESO0n5ydc5i8p6tHTQCLcBGAsYHQ/s720/galaxypremium-p%2B%25282%2529.png",
 			"stream_url_1": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=galaxypremium",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd"
 		},
 		{
 			"cid": 3,
@@ -804,7 +804,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-fVO4vCYo_Bo/YJZOdutTXbI/AAAAAAAAEqs/yWuL62zcS50CoTEme5Gpgkwb51VIJHE4ACLcBGAsYHQ/s720/HBO-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd"
 		},
 		{
 			"cid": 3,
@@ -816,7 +816,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-DC2p8aCvtbA/YJZOc8QTEeI/AAAAAAAAEqo/c2Rk1qqcQDQqmRjOMs1HTWIi5j2S6GejACLcBGAsYHQ/s720/HBO-FAMILY-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
 		},
 		{
 			"cid": 3,
@@ -828,7 +828,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-SsD9V2FhzJM/YJZOdmqvxdI/AAAAAAAAEqw/_OPW7f_7qxANFkqdmWeMV8abvKTS1d8ywCLcBGAsYHQ/s720/HBO-HITS-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
 		},
 		{
 			"cid": 3,
@@ -840,7 +840,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-CiUjEtGHIlE/YJZOdwP98bI/AAAAAAAAEq0/a3yA-vkfAvET4svikVZw5GrVR-8E2eD-wCLcBGAsYHQ/s720/HBO-SIGNATURE-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
 		},
 		{
 			"cid": 3,
@@ -852,7 +852,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-0GkPR_ah9_U/YJZOkcZrkvI/AAAAAAAAEsA/PLJwM2fAuUUKgbv4kxOYegB87xxC5kXZwCLcBGAsYHQ/s720/hits-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd"
 		},
 		{
 			"cid": 3,
@@ -864,7 +864,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-eko1_fX5Qho/YJZOk8ChE6I/AAAAAAAAEsE/_Job_3emCL89kCROSqkKSatqgLo93sjzACLcBGAsYHQ/s720/hitsmovies-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
 		},
 		{
 			"cid": 3,
@@ -877,7 +877,7 @@
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-MD7NLrr2qzQ/YJZOlT00-DI/AAAAAAAAEsM/t0-uyjVuPMsc0-PDGaWXextkXqmIYKslQCLcBGAsYHQ/s720/imc-pos.png",
 			"stream_url_1": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=imc",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd"
 		},
 		{
 			"cid": 3,
@@ -889,7 +889,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-6J5jnsZZo-8/YJZOlXk24iI/AAAAAAAAEsI/byWXVz7YsyknTyURgE-B-eEliU8EyZ4nwCLcBGAsYHQ/s720/kix-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd"
 		},
 		{
 			"cid": 3,
@@ -925,7 +925,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-3zWaVyqmN74/YJZOmQFLNqI/AAAAAAAAEsU/KbYjBqCWH8E7lBrZnLti8Udsas9H8Za_ACLcBGAsYHQ/s720/one-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd"
 		},
 		{
 			"cid": 3,
@@ -937,7 +937,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-tN-4QEIxikc/YJZOnvm9WkI/AAAAAAAAEsk/3QmWPO9rfrsDLwFf-nEo28sQCSELQpc4wCLcBGAsYHQ/s720/thrill-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
 		},
 		{
 			"cid": 3,
@@ -949,7 +949,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-jA70Yh8ivbQ/YJZOfN0ccKI/AAAAAAAAErA/pILqNOw3ytMKSk71xtJn5M-hykP26om6gCLcBGAsYHQ/s720/TVN-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd"
 		},
 		{
 			"cid": 3,
@@ -961,7 +961,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-oL-TH_DJtEk/YJZOfY-8CII/AAAAAAAAErE/UHEbPo9W7dksYTuzV0qyjsCq1Ber6mz5wCLcBGAsYHQ/s720/TVNMOVIES-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
 		},
 		{
 			"cid": 3,
@@ -1009,7 +1009,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-Xcdz9sem070/YJZOf1yt9fI/AAAAAAAAErI/UBxmmXXqinAWEJwcYxOM4fHOUxsXsRR7wCLcBGAsYHQ/s720/WARNER-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd"
 		},
 		{
 			"cid": 3,
@@ -1021,7 +1021,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-msHi4mwLczc/YJZOnyYsplI/AAAAAAAAEso/fl-Vt9TbU_gON6bMINy1Q7xy4byeQiunACLcBGAsYHQ/s720/zeebioskop-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
 		},
 		{
 			"cid": 4,
@@ -1045,7 +1045,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-F1VC7nbO870/YJYkFZekXII/AAAAAAAAEio/eFxg3BMgg-0kMXMC50PJ2HjqsRQ-dfzPwCLcBGAsYHQ/s720/ANIMAL-PLANET-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
 		},
 		{
 			"cid": 4,
@@ -1070,7 +1070,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-JV88PHoJcd4/YJYkJN3vYZI/AAAAAAAAEjQ/BAzNXdIo2B0tqnaB-qzpDOc2t8BpZxTwwCLcBGAsYHQ/s720/bbcearth-p%2B%25282%2529.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
 		},
 		{
 			"cid": 4,
@@ -1106,7 +1106,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-6QU12Uy9U-8/YJYkKekZeFI/AAAAAAAAEjY/dLiQYo-A7qQzxQFCURfMLtX0jCddAWajgCLcBGAsYHQ/s720/crimeinvestigation-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
 		},
 		{
 			"cid": 4,
@@ -1131,7 +1131,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-mmPXCY7tl0E/YJYkFShVlNI/AAAAAAAAEis/0xC1G0cgkMEo9JL7o3PiJAuW_mawQjMmwCLcBGAsYHQ/s720/DISCOVERY-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd"
 		},
 		{
 			"cid": 4,
@@ -1143,7 +1143,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-p_2HUJmzESc/YJYrxRZBX7I/AAAAAAAAElo/Fo643vna9k8oD1FLQ7qod66v1bX9K1LPQCLcBGAsYHQ/s720/hgtv-poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
 		},
 		{
 			"cid": 4,
@@ -1155,7 +1155,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-KqLS5mDf_Yo/YJYkGOJzwhI/AAAAAAAAEiw/6SzV5b4JcIYoCfW1fXwBL0BDmgYWlZRxwCLcBGAsYHQ/s720/HISTORY-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd"
 		},
 		{
 			"cid": 4,
@@ -1227,7 +1227,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-BgGei6WHt60/YJYkHGraIwI/AAAAAAAAEi8/Msh12HdnONg917uYxBSTo3fN-zykXntfgCLcBGAsYHQ/s720/NAT-GEO-WILD-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd"
 		},
 		{
 			"cid": 4,
@@ -1239,7 +1239,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-g7NrYTZnfek/YJYkHUwqpOI/AAAAAAAAEjA/gN90UQHI6DAulID3hkbl2-LM5ufKc5_uQCLcBGAsYHQ/s720/NATIONAL-GEOGRAPHIC-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd"
 		},
 		{
 			"cid": 4,
@@ -1336,7 +1336,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-EeIxSkwXP88/YJYrqWqGGDI/AAAAAAAAEkY/jdn9LbO4ZzkBoePMGkQ_BYqS-2HOXQxWwCLcBGAsYHQ/s720/AFN-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd"
 		},
 		{
 			"cid": 5,
@@ -1384,7 +1384,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-qwFWC9vVOBU/YJYrvBrzx4I/AAAAAAAAElI/wdnnzjEwEV0Zsx9Vr99oHSXGaMxEMelzACLcBGAsYHQ/s720/daai-pos.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
 		},
 		{
 			"cid": 5,
@@ -1433,7 +1433,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-8P3R2A0wtvI/YJZOjfq4vUI/AAAAAAAAEr4/UZ8fgBX_1eMgbTo5OhbYv9kV-KSIHnXKgCLcBGAsYHQ/s720/fmn-p%2B%25282%2529.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
 		},		
 		{
 			"cid": 5,
@@ -1469,7 +1469,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-8g6sbT4rI84/YJY4L6d8kkI/AAAAAAAAEm8/LubCTyMew10CgYdNRMRXD-fgXkCZlEGhACLcBGAsYHQ/s720/lifestyle%2Bfashion.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd"
 		},
 		{
 			"cid": 5,
@@ -1481,7 +1481,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-ZjlBI7NQqO0/YJYrqbmeBVI/AAAAAAAAEkQ/3goOtoCrFAAugPZTm7cD1xdoXSAfzLdHgCLcBGAsYHQ/s720/LIFETIME-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd"
 		},
 		{
 			"cid": 5,
@@ -1505,7 +1505,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-Uqn63fCL3wg/YJY4h87WUFI/AAAAAAAAEnE/PN98rnoL9NQIMmqu2UskZp8Ixq5ImSbIwCLcBGAsYHQ/s720/mnc%2Bentertainment.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd"
 		},
 		{
 			"cid": 5,
@@ -1517,7 +1517,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-IclsvV81xZY/YJY4h8Rp9RI/AAAAAAAAEnI/zsgjOyDURAAhuJnDqd3eBYQHZ6oO22-mgCLcBGAsYHQ/s720/mnc%2Binfotainment.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd"
 		},
 		{
 			"cid": 5,
@@ -1565,7 +1565,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-3eHYsB_WpPg/YJY4iIksyLI/AAAAAAAAEnM/BxXzwDoMxaMuE75-6ki-mAI9GoaN7ivDACLcBGAsYHQ/s720/oktv.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd"
 		},
 		{
 			"cid": 5,
@@ -1724,7 +1724,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-p_TMYb1Bhvk/YJYrrRZ8R2I/AAAAAAAAEkg/hL7ReN1UxhwGGgM6_iP-wIrc8KiSJEbqQCLcBGAsYHQ/s720/TLC-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd"
 		},
 		{
 			"cid": 5,
@@ -1748,7 +1748,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-NYFh9d8ziQQ/YJY4jiTuHLI/AAAAAAAAEnY/E4gUJPCkvt8BmN7hZcsl44SEl6jpT4ixwCLcBGAsYHQ/s720/vision-prime.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
 		},
 		{
 			"cid": 6,
@@ -1760,7 +1760,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-O1l2t3aQ1mY/YLBo16pCCFI/AAAAAAAAFx0/uhFrAFwWsUIUbMCNt5pVPuqCF1pUd3GXACLcBGAsYHQ/s720/BabyTV-p%2B%25282%2529.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd"
 		},
 		{
 			"cid": 6,
@@ -1772,7 +1772,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-6ZzeA0uqG0s/YJZGfRuOHSI/AAAAAAAAEpc/Tu_FEEo8wlgmwh5ImCijybgdEOG_m1sOwCLcBGAsYHQ/s720/besmart.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd"
 		},
 		{
 			"cid": 6,
@@ -1784,7 +1784,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-iBbx2puBq18/YJZDaJdz3JI/AAAAAAAAEn8/bH4RHUZRl40sEUaGBT8pqFovn8kERy81gCLcBGAsYHQ/s720/BOOMERANG-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
 		},
 		{
 			"cid": 6,
@@ -1796,7 +1796,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-btWa5wWwJN0/YJZDaDuoWKI/AAAAAAAAEoE/FPa4sl-Amxc_R05eBjMXyJW0_kfq-e23ACLcBGAsYHQ/s720/CARTOONNETWORK-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
 		},
 		{
 			"cid": 6,
@@ -1808,7 +1808,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-wtLOBF-n5mw/YJZGfQjSp0I/AAAAAAAAEpk/ks4wIazJpX8UDBmx2VjlG7XbVXhxM89oACLcBGAsYHQ/s720/BBC-Cbeebies-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
 		},
 		{
 			"cid": 6,
@@ -1820,7 +1820,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-z9BxxR6wQ0U/YJZGffITxgI/AAAAAAAAEpg/4j2CXRA12M8oEitiijcXw78wh-bZC8h9gCLcBGAsYHQ/s720/Kids%2BTV%2BChannel.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
 		},
 		{
 			"cid": 6,
@@ -1832,7 +1832,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-nwUNT6L8abQ/YJZGgfzAYVI/AAAAAAAAEpo/f2Qr0V2s-94rXXAWEZmxs83oD7l3UGJnQCLcBGAsYHQ/s720/miaomi.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd"
 		},
 		{
 			"cid": 6,
@@ -1844,7 +1844,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-XsmamkCGlQ0/YJZDdJF1DgI/AAAAAAAAEos/ODfq6h_9tuw_Jf5yiMboUsNuOtaert9SwCLcBGAsYHQ/s720/NICKJR-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd"
 		},
 		{
 			"cid": 6,
@@ -1856,7 +1856,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-A3_LMHbfADE/YJZDcwJYHgI/AAAAAAAAEoo/oV8kDkepwqICYeZK9xA3h71H2WWZ13h7gCLcBGAsYHQ/s720/NICKELODEON-Poster.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
 		},
 		{
 			"cid": 6,
@@ -2079,7 +2079,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-uX8fbRfI3e4/YXjc8vczMdI/AAAAAAAAH9U/Uv-Uem0rBeovw92UWhPceuDvRVgzBSXgQCLcBGAsYHQ/s720/Music_TV_P.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
 		},
 		{
 			"cid": 7,
@@ -2379,7 +2379,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwLUT-wC17rFycoQjPvXOC3wc7MuiKiJpW0ARIXpma6VTLzJ9pTpc9DXWcGlkDvIqw80fg0Qk_43SrdDuj7OGIpXcIMNUH5xksWWgdzZ5NSrFivAnWa8cO8VjDwHeZtjlNLmu6vr0eUlqJrGk2gLeFII9OwPEHOk6FtXIBWyM9YdOyT8dS28IOsmxo/s720/anhuitv.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd"
 		},
 		{
 			"cid": 8,
@@ -2403,7 +2403,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOaIQLv5hJMZMToZZezmYP69sCl72z89ZL688b3LGIH9TjICmCCiBpOrwWp2UFtq2Y_A3HCNql5yYbhn73CwBi-HM5RFYv63oQm8kD0SHhr3MfrgWR-THYAJs6fsAyyseTJ9TKpiDyUKD5bSSemHZv3iEwcsAs8KbtPCmTw6LyrNageuEYSQ44ZIUI/s720/HunanTV.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd"
 		},
 		{
 			"cid": 8,
@@ -2415,7 +2415,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_cFP2yB0sxDYO56XNBGnli4Q8RPOXzHt6e7Stz0DkyTPXkPwmFJ6LjmfNO4KRKzhS1ylK50ggtZUVletXs6WB-vaOECk4KPYpMXc149_RAKRdPPVEopPMdkZj4nL7FsJHT0pmVj8-xqYsvgO--0OSB20_aZ5IthCSOv7udZXe372GnX6UKxbQTEF/s720/Jiangsu%20TV.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
 		},
 		{
 			"cid": 8,
@@ -2427,7 +2427,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyZbZlctqJnc7Mvfp5FaopIBxNr8H6-Y_ekBCOYGT5cozvU-ZqHcGyGc6Ie36xHyKnR1R_61PvSeddWrn6aOca5XMeJ0Hiotl1vU53YFb1y9UB3nLoKaI3YYgDI-qPiDHb4wBxjcQiO-oAGhPjJh7yR86P-NiX2oVGTKEZK2fhSsEpIaImRLiJ4a8R/s720/Sanghai%20Dragon%20TV.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd"
 		},
 		{
 			"cid": 8,
@@ -2439,7 +2439,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGPd5hHqK4BEoSLtY26hdfDL6_ujdtxXmW506WAerR0OQ459q93QT4wqGcNqjgEAhOcl5eOLkKuaH4kKVn5AOFsJvGtlZwIY9N3SM0MaxjLH1FPpzSzKKZDpsJy4Cn2uUl6Vw3UP0qlyJWv9s3IITxekHwqCa9nwYatJdD9mOItw2Bw4t2pZJX3-jX/s720/XingKong%20TV.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd"
 		},
 		{
 			"cid": 8,
@@ -2451,7 +2451,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-FhV2-0HVz7A/YJaJ8eKCveI/AAAAAAAAEzk/fr7yYSR0zwIGE_p2lBTAg8ww2fY74AdUACLcBGAsYHQ/s720/arirang.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd"
 		},
 		{
 			"cid": 8,
@@ -2463,7 +2463,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-g5YDl3jG8ag/YJaJ6W2KXdI/AAAAAAAAEzI/Xw08JdFRqdwi56k0PVT-R9qfrQYKPSEWACLcBGAsYHQ/s720/ABC%2BAustralia.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd"
 		},
 		{
 			"cid": 8,
@@ -2487,7 +2487,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCfwBaI8q8rEiA_i25M3T7LkzRhLve5cICwrb8wwSkWtelQNKzneoPyYUZ5X6N3VGJmZn63kFITCOTH_wNWMV359t7-nzeMugetbTZHA29Wl5QacHx9XWGum28pOlufk9FE1a0KdzbFWXECGyPyIAHUx5FxpWb0wkAjCnw1m58CdGaVjYble1Oui2/s720/1.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd"
 		},
 		{
 			"cid": 8,
@@ -2499,7 +2499,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-Y2_LErEQIfs/YJaJ6RftELI/AAAAAAAAEzQ/jfQTKTda7K0iz-5Hr5LiMj0A38m24tP3QCLcBGAsYHQ/s720/BBC%2BWorld%2BNews.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd"
 		},
 		{
 			"cid": 8,
@@ -2511,7 +2511,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-WBz_y4IVjro/YJaJ6QIn1uI/AAAAAAAAEzM/j4uaWLcJ4H0tWcyhWK_dvoQwzhKhTpGWACLcBGAsYHQ/s720/BLOOMBERG-Thumbnail.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd"
 		},
 		{
 			"cid": 8,
@@ -2523,7 +2523,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-yi1POQGyAaM/YJaJ8pC2o0I/AAAAAAAAEzo/ARGemexhNvwI-Jyj2MGSNswWMohmAgN0gCLcBGAsYHQ/s720/cgtn.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd"
 		},
 		{
 			"cid": 8,
@@ -2535,7 +2535,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-g0a5jNCxOrU/YJaJ7CBwr8I/AAAAAAAAEzU/bkNhi1v0-TA0F0ZsQtQTQc9JgaMSDxEPwCLcBGAsYHQ/s720/CNA-Thumbnail.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd"
 		},
 		{
 			"cid": 8,
@@ -2547,7 +2547,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-X8E_f12rYRg/YJaJ9UznA9I/AAAAAAAAEzs/0YpPIhpDXkAhDoLmBVqmAUUdRrN4lIDjQCLcBGAsYHQ/s720/cnbc%2Bworld.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd"
 		},
 		{
 			"cid": 8,
@@ -2559,7 +2559,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-MOP3sjxu1uQ/YJaJ9qbDcrI/AAAAAAAAEzw/r_wGPETKphAkfEGLpys4bVRNHsnVTPOPgCLcBGAsYHQ/s720/cnn%2Binternasional.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
 		},
 		{
 			"cid": 8,
@@ -2571,7 +2571,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-_l9pPPjz7tM/YJaJ9xDgIeI/AAAAAAAAEz0/t07Y51OOmnEogIkgk2coKrCLjcl12RxyACLcBGAsYHQ/s720/dw.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
 		},
 		{
 			"cid": 8,
@@ -2583,7 +2583,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-U-YmbIVUswk/YJaJ-vVbedI/AAAAAAAAEz4/3SB5lrZBTKgA5f1yrNxB3ah6BMXOUDNBACLcBGAsYHQ/s720/euronews.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd"
 		},
 		{
 			"cid": 8,
@@ -2595,7 +2595,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-wm1exSA0OkQ/YJaJ-3ZvphI/AAAAAAAAEz8/FkmP8fSCZ_4NddDDllYtx4OICypBega4QCLcBGAsYHQ/s720/foxnews.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd"
 		},
 		{
 			"cid": 8,
@@ -2607,7 +2607,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-yFKd4WVlwqE/YJaJ_P1FYpI/AAAAAAAAE0A/SV61Y1TmQPwsvYEbiqsyMig0Io-P3WlxwCLcBGAsYHQ/s720/france24.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd"
 		},
 		{
 			"cid": 8,
@@ -2619,7 +2619,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-p91LtA1xxbk/YJaJ7XJvz1I/AAAAAAAAEzY/lCvsqGfJfxMp300OQKb_pnhlllE9w6QxwCLcBGAsYHQ/s720/NHK-WORLD-JAPAN-Thumbnail.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
 		},
 		{
 			"cid": 8,
@@ -2631,7 +2631,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-wLD4QniMpPw/YJaJ_f0vT5I/AAAAAAAAE0E/O1Q_nJuk1ZMYwnXmpKWohzZhgUsDOKPFQCLcBGAsYHQ/s720/nhk%2Bpremium.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
 		},
 		{
 			"cid": 8,
@@ -2643,7 +2643,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-KzVzBTyu8X0/YJaJ7lUpa1I/AAAAAAAAEzc/eud3_pllkFU1dngRlnXG8tunsae3tzXHgCLcBGAsYHQ/s720/RT.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd"
 		},
 		{
 			"cid": 8,
@@ -2679,7 +2679,7 @@
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-9SIBS2OWF80/YJaJ8dJV5cI/AAAAAAAAEzg/M_y8brAJqTQC55GDyiD2uOftrJdqORNaQCLcBGAsYHQ/s720/TRT%2BWorld.png",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd"
+			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd"
 		}	
 		]
 }
