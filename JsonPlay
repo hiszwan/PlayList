@@ -97,13 +97,6 @@
 		{
 			"cid": 1,
 			"name": "GTV",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"poster": "https://1.bp.blogspot.com/-1SYFYhaX244/YJVWuMAKsII/AAAAAAAAEaM/2MVOksF7zywOgIvVRtiU-CYmUOH1O72fwCLcBGAsYHQ/s720/gtv-p.png",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
 		},
 		{
