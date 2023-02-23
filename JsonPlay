@@ -821,21 +821,6 @@
 		},
 		{
 			"cid": 7,
-			"name": "Musica",
-			"stream_url": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=altec&channel=7619.m3u8"
-		},
-		{
-			"cid": 7,
-			"name": "Nagaswara",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=Is03gZsBeq0"
-		},
-		{
-			"cid": 7,
-			"name": "Aquarius",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCpJRmMTfdv0iPbnjo6qBw_g"
-		},
-		{
-			"cid": 7,
 			"name": "4Fun TV",
 			"stream_url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
 		},
@@ -902,28 +887,13 @@
 		},
 		{
 			"cid": 7,
-			"name": "Musik Indonesia",
-			"stream_url": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=altec&channel=musikindo"
-		},
-		{
-			"cid": 7,
 			"name": "Music TV",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
 		},
 		{
 			"cid": 7,
-			"name": "NG Radio",
-			"stream_url": "http://live.streams.ovh:1935/NGradio/NGradio/chunklist.m3u8"
-		},
-		{
-			"cid": 7,
 			"name": "Play Music",
 			"stream_url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist.m3u8"
-		},
-		{
-			"cid": 7,
-			"name": "Prambors TV",
-			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=pramborstv"
 		},
 		{
 			"cid": 7,
@@ -982,11 +952,6 @@
 		},
 		{
 			"cid": 7,
-			"name": "Stingray Exitos Del Momento",
-			"stream_url": "https://stirr.ott-channels.stingray.com/190/master.m3u8"
-		},
-		{
-			"cid": 7,
 			"name": "V2 Beat",
 			"stream_url": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8"
 		},
@@ -1012,7 +977,7 @@
 		},
 		{
 			"cid": 7,
-			"name": "VEVO POP",
+			"name": "VEVO Pop",
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/f01ebfed-7ad5-4d03-b1ca-023870fcb436/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
@@ -1022,12 +987,12 @@
 		},
 		{
 			"cid": 7,
-			"name": "VEVO COUNTRY",
+			"name": "VEVO Country",
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/a7f46d76-39c5-4794-883c-4d22a9c41fde/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=truea&startingOffset=0"
 		},
 		{
 			"cid": 7,
-			"name": "VEVO REGGAETON&TRAP",
+			"name": "VEVO Reggaeton&Trap",
 			"stream_url": "https://service-stitcher.clusters.pluto.tv/proxy/fc027a03-e512-45db-98af-879f6889407f/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true&startingOffset=0"
 		},
 		{
