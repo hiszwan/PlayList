@@ -56,13 +56,6 @@
 		{
 			"cid": 1,
 			"name": "Berita Satu",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"poster": "https://1.bp.blogspot.com/-9c5Jzd9Z09k/YJVWtR_2VXI/AAAAAAAAEaE/h1Mv7UovDtQg24vT4UJ5-IcMEWsjhOVdwCLcBGAsYHQ/s720/beritasatu-p.png",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd"
 		},
 		{
