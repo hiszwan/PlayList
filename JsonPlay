@@ -2664,7 +2664,7 @@
 		{
 			"cid": 8,
 			"name": "SKY News",
-			"stream_url": "https://webudi.onlinewebtv.lol/lb/premium366/index.m3u8|referer=https://widevine.licenses4.me/|User-agent=REDLINECLIENT"
+			"stream_url": "https://webudi.onlinewebtv.lol/lb/premium366/index.m3u8|referer=https://widevine.licenses4.me/|useragent=REDLINECLIENT"
 		},
 		{
 			"cid": 8,
