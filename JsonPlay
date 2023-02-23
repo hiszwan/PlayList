@@ -566,6 +566,11 @@
 		},
 		{
 			"cid": 4,
+			"name": "TV5 Monde",
+			"stream_url": "http://210.210.155.37/dr9445/h/h121/01.m3u8"
+		},
+		{
+			"cid": 4,
 			"name": "Weather Spy",
 			"stream_url": "https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8"
 		},
@@ -1124,6 +1129,16 @@
 			"cid": 8,
 			"name": "France24",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd"
+		},
+		{
+			"cid": 8,
+			"name": "Madina",
+			"stream_url": "http://210.210.155.37/qwr9ew/s/s27/01.m3u8"
+		},
+		{
+			"cid": 8,
+			"name": "Makah",
+			"stream_url": "http://210.210.155.37/qwr9ew/s/s28/01.m3u8"
 		},
 		{
 			"cid": 8,
