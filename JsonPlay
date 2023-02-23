@@ -2681,7 +2681,8 @@
 			"typedrm": "widevine",
 			"useragent": "REDLINECLIENT",
 			"drmuseragent": "MNC Now",
-			"stream_url": "https://webudi.onlinewebtv.lol/lb/premium366/index.m3u8?|referer=https://widevine.licenses4.me"
+			"deremel": "https://widevine.licenses4.me",
+			"stream_url": "https://webudi.onlinewebtv.lol/lb/premium366/index.m3u8"
 		},
 		{
 			"cid": 8,
