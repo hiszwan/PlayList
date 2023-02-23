@@ -218,6 +218,11 @@
 		},
 		{
 			"cid": 2,
+			"name": "Elshinta",
+			"stream_url": "http://210.210.155.37/qwr9ew/s/s10/01.m3u8"
+		},
+		{
+			"cid": 2,
 			"name": "GPR TV",
 			"stream_url": "https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8"
 		},
@@ -250,11 +255,6 @@
 			"cid": 2,
 			"name": "Madu TV",
 			"stream_url": "https://re1.siar.us/madutv/hd720/playlist.m3u8"
-		},
-		{
-			"cid": 2,
-			"name": "NCB TV",
-			"stream_url": "https://ams.desastreaming.com:5443/LiveApp/streams/ncbtv.m3u8"
 		},
 		{
 			"cid": 2,
@@ -298,7 +298,7 @@
 		},
 		{
 			"cid": 3,
-			"name": "ANIMAX",
+			"name": "Animax",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
 		},
 		{
@@ -328,12 +328,12 @@
 		},
 		{
 			"cid": 3,
-			"name": "CINEMAX",
+			"name": "Cinemax",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
 		},
 		{
 			"cid": 3,
-			"name": "GALAXY",
+			"name": "Galaxy",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd"
 		},
 		{
@@ -471,6 +471,11 @@
 		},
 		{
 			"cid": 4,
+			"name": "Cooking Panda",
+			"stream_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
+		},
+		{
+			"cid": 4,
 			"name": "Crime Investigation",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
 		},
@@ -516,7 +521,7 @@
 		},
 		{
 			"cid": 4,
-			"name": "MOTORVISION.TV",
+			"name": "MotorVision TV",
 			"stream_url": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_motorvisiontv_001.m3u8"
 		},
 		{
@@ -581,23 +586,28 @@
 		},
 		{
 			"cid": 5,
-			"name": "DAAI TV",
+			"name": "Daai TV",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
 		},
 		{
 			"cid": 5,
-			"name": "DIGIONE",
+			"name": "DigiOne",
 			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8"
 		},
 		{
 			"cid": 5,
-			"name": "FAILARMY",
+			"name": "FailArmy",
 			"stream_url": "https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8"
 		},
 		{
 			"cid": 5,
 			"name": "FMN",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
+		},
+		{
+			"cid": 5,
+			"name": "Fashion TV",
+			"stream_url": "https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8"
 		},		
 		{
 			"cid": 5,
@@ -623,6 +633,11 @@
 			"cid": 5,
 			"name": "Magna Channel",
 			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8"
+		},
+		{
+			"cid": 5,
+			"name": "Metro Globe Network",
+			"stream_url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_sleng.m3u8"
 		},
 		{
 			"cid": 5,
@@ -766,11 +781,6 @@
 		},		
 		{
 			"cid": 6,
-			"name": "Cooking Panda",
-			"stream_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
-		},		
-		{
-			"cid": 6,
 			"name": "Kids TV",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
 		},
@@ -788,6 +798,11 @@
 			"cid": 6,
 			"name": "Nickelodeon",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
+		},
+		{
+			"cid": 6,
+			"name": "The Official LEGO",
+			"stream_url": "https://legochannel-vizio.amagi.tv/playlist.m3u8"
 		},
 		{
 			"cid": 6,
