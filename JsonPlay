@@ -43,13 +43,23 @@
 	"channels": [
 		{
 			"cid": 1,
-			"name": "antv",
+			"name": "anTV",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+		},
+		{
+			"cid": 1,
+			"name": "anTV ᕀ",
+			"stream_url": "http://210.210.155.37/qwr9ew/s/s07/01.m3u8"
 		},
 		{
 			"cid": 1,
 			"name": "Berita Satu",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd"
+		},
+		{
+			"cid": 1,
+			"name": "Berita Satu ᕀ",
+			"stream_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8"
 		},
 		{
 			"cid": 1,
@@ -83,6 +93,11 @@
 		},
 		{
 			"cid": 1,
+			"name": "Indosiar ᕀ",
+			"stream_url": "http://mpwtv.my.id/vidioye/205-indosiar.m3u8"
+		},
+		{
+			"cid": 1,
 			"name": "iNews",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
 		},
@@ -98,8 +113,18 @@
 		},
 		{
 			"cid": 1,
+			"name": "Kompas TV ᕀ",
+			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8"
+		},
+		{
+			"cid": 1,
 			"name": "Metro TV",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd"
+		},
+		{
+			"cid": 1,
+			"name": "Metro TV ᕀ",
+			"stream_url": "https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w846993376_b1492000_sleng.m3u8"
 		},
 		{
 			"cid": 1,
@@ -133,6 +158,11 @@
 		},
 		{
 			"cid": 1,
+			"name": "SCTV ᕀ",
+			"stream_url": "http://mpwtv.my.id/vidioye/204-sctv.m3u8"
+		},
+		{
+			"cid": 1,
 			"name": "Trans 7",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd"
 		},
@@ -145,6 +175,11 @@
 			"cid": 1,
 			"name": "tvOne",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
+		},
+		{
+			"cid": 1,
+			"name": "tvOne ᕀ",
+			"stream_url": "http://210.210.155.37/qwr9ew/s/s105/01.m3u8"
 		},
 		{
 			"cid": 1,
