@@ -128,16 +128,7 @@
 		{
 			"cid": 1,
 			"name": "Indosiar",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://mibitivi.xyz/sc/lic.php?tekon=altec&a=indosiar",
-			"poster": "https://1.bp.blogspot.com/-sr_JztcW1i0/YJVWujZQJMI/AAAAAAAAEaU/3E_UVUSecGgVGKfzk_SUgeVrejjIo4LDACLcBGAsYHQ/s720/indosiar-p.png",
-			"stream_url_2": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=indosiar",
-			"stream_url": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=altec&channel=205.m3u8",
-			"stream_url_1": "http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar"
+			"stream_url": "http://210.210.155.37/qwr9ew/s/s04/01.m3u8"
 		},
 		{
 			"cid": 1,
@@ -213,19 +204,6 @@
 		},
 		{
 			"cid": 1,
-			"name": "mytv",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"poster": "https://1.bp.blogspot.com/-FnuZyfWAEXo/YJVWwFK1GQI/AAAAAAAAEao/XUsZJqT3K8AIyCkbZXYlUzuxXgFhXMaxQCLcBGAsYHQ/s720/mytv-p.png",
-			"stream_url_1": "https://mibitivi.xyz/vd/starts.m3u8?tekon=altec&id=eyJ1c2VyX2lkIjogIjQwZGFkMWQ4M2EyYmM4MTciLCAiaWQiOiAzMjEsInRpbWUiOiAxOTYxNzIxODk1fQ==",
-			"stream_url": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=altec&channel=6711.m3u8"
-		},
-		{
-			"cid": 1,
 			"name": "Net TV",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -263,16 +241,7 @@
 		{
 			"cid": 1,
 			"name": "SCTV",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://mibitivi.xyz/sc/lic.php?tekon=altec&a=sctv",
-			"poster": "https://1.bp.blogspot.com/-Jrub7s9M-8o/YJVWxmOMmiI/AAAAAAAAEa8/fHKx6VD5nc4FAZtBgDwAwviX1UVzVVLKACLcBGAsYHQ/s720/sctv-p.png",
-			"stream_url_2": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=sctv",
-			"stream_url": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=altec&channel=204.m3u8",
-			"stream_url_1": "http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV"
+			"stream_url": "http://210.210.155.37/qwr9ew/s/s03/01.m3u8"
 		},
 		{
 			"cid": 1,
@@ -894,14 +863,7 @@
 		{
 			"cid": 3,
 			"name": "My Family Channel",
-			"typedrm": "widevine",
-			"useragent": "MlBlTlVl",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://mibitivi.xyz/sc/lic.php?tekon=altec&a=myfamily",
-			"poster": "https://1.bp.blogspot.com/-FY3affz-658/YVcxPsjtn7I/AAAAAAAAH1c/IDcSge299QQMdbRRQL8szPPUE0GUn6kegCLcBGAsYHQ/s720/myfamily-p.png",
-			"stream_url": "http://rr3.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel"
+			"stream_url": "http://210.210.155.37/uq2663/h/h193/index.m3u8"
 		},
 		{
 			"cid": 3,
@@ -1340,18 +1302,6 @@
 		},
 		{
 			"cid": 5,
-			"name": "B LifeStyle",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"poster": "https://1.bp.blogspot.com/-Uh6VjUXBWDs/YJYrsFiiy3I/AAAAAAAAEks/3JJPbpY_zZI_xdFgD0E2ThIyWjo6mjYzwCLcBGAsYHQ/s720/bizlifestyle-p.png",
-			"stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_123_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8"
-		},
-		{
-			"cid": 5,
 			"name": "Bon Appetit",
 			"typedrm": "widevine",
 			"useragent": "MNC Now",
@@ -1397,19 +1347,6 @@
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
 			"poster": "https://1.bp.blogspot.com/-afmUQE7zPaA/YJYrvmm6AgI/AAAAAAAAElM/345ZkvHIntQHOmLuJh5QcMlUkgzaLJNvACLcBGAsYHQ/s720/digione-p.png",
 			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8"
-		},
-		{
-			"cid": 5,
-			"name": "Eat&Go",
-			"typedrm": "widevine",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://mibitivi.xyz/sc/lic.php?tekon=altec&a=eatgo",
-			"poster": "https://1.bp.blogspot.com/-WyYRSNe2l6c/YJYrwFaxlgI/AAAAAAAAElU/AkNFNbLO7CkvFhUS1hjhsUNlNhNm3aI0gCLcBGAsYHQ/s720/eat%2526go-post.png",
-			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=eatgo",
-			"stream_url_1": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=altec&channel=eatgo"
 		},
 		{
 			"cid": 5,
@@ -1607,7 +1544,7 @@
 		},
 		{
 			"cid": 5,
-			"name": "Rock Extreme",
+			"name": "Rock Action",
 			"typedrm": "WIDEVINE",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
