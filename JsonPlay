@@ -562,7 +562,7 @@
 		{
 			"cid": 4,
 			"name": "Weather Spy",
-			"stream_url_1": "https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8"
+			"stream_url": "https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8"
 		},
 		{
 			"cid": 5,
