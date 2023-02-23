@@ -706,7 +706,7 @@
 			"cheadb": "Google",
 			"deremel": "https://mibitivi.xyz/sc/lic.php?tekon=altec&a=aniplus",
 			"poster": "https://1.bp.blogspot.com/-weoDRKgS73M/YJZOgi8AFeI/AAAAAAAAErU/W3b6y7EE3xsvNHC5mDh_-4njmAmT0Q25ACLcBGAsYHQ/s720/aniplus-poster.png",
-			"stream_url": "http://210.210.155.35/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8"
+			"stream_url": "http://210.210.155.37/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8"
 		},
 		{
 			"cid": 3,
@@ -1603,7 +1603,7 @@
 			"cheadb": "Google",
 			"deremel": "https://mibitivi.xyz/vd/startsdrm1.mpd?tekon=altec&id=rockent",
 			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW71Y-SQDWXtqxd88JWdOVcZjpOuYNemtG9nldrPGs8pVElVvmSuUGBiFKyNtoH1moY4cbTtu9hUfm6PlrMiaaLqQiajzdq5uaWRib9GHyicGntQySOaS6KFIfWaJv4wgAxR5y7d26XtnLa7-sbDFHrTqapH0xOZavMVcvKqpC4ABZ8v-uGMyzu63y/s720/rockentertainment.png",
-			"stream_url": "https://hz.mibitivi.xyz/mibi/sc/ch/rockent.m3u8?tekon=altec"
+			"stream_url": "http://210.210.155.37/dr9445/h/h16/01.m3u8"
 		},
 		{
 			"cid": 5,
@@ -1615,7 +1615,7 @@
 			"cheadb": "Google",
 			"deremel": "https://mibitivi.xyz/vd/startsdrm1.mpd?tekon=altec&id=rockext",
 			"poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Bjde8NzHEjP13qOECHcTrD9MDwJBQhwYtGm7mLs1Ms5Y5w1OL6y6lOTo_sWW2BybU_pxVnmpJT_l_kz9aE6IpQhKS78XFmNmPDwCT4uRU52eXsrRdx13dnkFxi45fm7xuDwrpfKnfrk_Y5dbv85rQVrXvcu1RP9Hkpb9-Zlxp3u9xi3bKcNHaaxf/s720/rockextreme.png",
-			"stream_url": "http://210.210.155.35/session/c41b46b8-6703-11ec-9eaf-b82a72d63267/dr9445/h/h15/01.m3u8"
+			"stream_url": "http://210.210.155.37/session/c41b46b8-6703-11ec-9eaf-b82a72d63267/dr9445/h/h15/01.m3u8"
 		},
 		{
 			"cid": 5,
@@ -2664,7 +2664,7 @@
 		{
 			"cid": 8,
 			"name": "SKY News",
-			"stream_url": "https://webudi.onlinewebtv.lol/lb/premium366/index.m3u8|referer=https://widevine.licenses4.me/|useragent=REDLINECLIENT"
+			"stream_url": "https://webudi.onlinewebtv.lol/lb/premium366/index.m3u8|drmuseragent=https://widevine.licenses4.me/|useragent=REDLINECLIENT"
 		},
 		{
 			"cid": 8,
