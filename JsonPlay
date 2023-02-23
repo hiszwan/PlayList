@@ -436,11 +436,6 @@
 		},
 		{
 			"cid": 4,
-			"name": "100AutomotoTV",
-			"stream_url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
-		},
-		{
-			"cid": 4,
 			"name": "Animal Planet",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
 		},
@@ -453,6 +448,11 @@
 			"cid": 4,
 			"name": "BBC Earth",
 			"stream_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
+		},
+		{
+			"cid": 4,
+			"name": "Bon Appetit",
+			"stream_url": "https://bonappetit-samsung.amagi.tv/hls/amagi_hls_data_condenast-bonappetitsamsung/CDN/playlist.m3u8"
 		},
 		{
 			"cid": 4,
@@ -581,11 +581,6 @@
 		},
 		{
 			"cid": 5,
-			"name": "Bon Appetit",
-			"stream_url": "https://bonappetit-samsung.amagi.tv/hls/amagi_hls_data_condenast-bonappetitsamsung/CDN/playlist.m3u8"
-		},
-		{
-			"cid": 5,
 			"name": "CJ ENM",
 			"stream_url": "https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8"
 		},
@@ -598,6 +593,11 @@
 			"cid": 5,
 			"name": "DigiOne",
 			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8"
+		},
+		{
+			"cid": 5,
+			"name": "Dubai Racing",
+			"stream_url": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8"
 		},
 		{
 			"cid": 5,
@@ -1158,7 +1158,7 @@
 		{
 			"cid": 8,
 			"name": "SKY News",
-			"stream_url": "https://webudi.onlinewebtv.lol/lb/premium366/index.m3u8|drmuseragent=https://widevine.licenses4.me/|useragent=REDLINECLIENT"
+			"stream_url": "https://webudi.onlinewebtv.lol/lb/premium366/index.m3u8|drmuseragent=https://widevine.licenses4.me|useragent=REDLINECLIENT"
 		},
 		{
 			"cid": 8,
