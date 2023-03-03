@@ -727,8 +727,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:0 tvg-logo="" group-title="Kids",Coco Melon
 https://devds.site/api/youlive.m3u8?v=WNOppbVkKu8
 
-<!--#EXTINF:-1 tvg-logo="" group-title="Kids",Dreamwork-->
-<!--http://121.156.46.79/live/10761.m3u8?sid=60720-->
+#EXTINF:-1 tvg-logo="" group-title="Kids",Dreamwork
+http://121.156.46.79/live/10761.m3u8?sid=60720
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Da_Vinci_Learning.png" group-title="Kids", Davinci
+http://iptvid.my.id/hmm/davinci.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Duck TV
 https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8
