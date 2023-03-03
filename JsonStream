@@ -1,5 +1,3 @@
-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
-
 #EXTINF:0 tvg-logo="" group-title="iTVnesia™",TVRI Nasional
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
