@@ -879,7 +879,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/ind
 #EXTINF:0 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/BANGKA%20BELITUNG.png" group-title="TVRI",Bangka Belitung
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TVRIBengkuluLogo2019_OnAirScreen.svg" group-title="TVRI",Bengkulu
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TVRIBengkuluLogo2019.svg/320px-TVRIBengkuluLogo2019.svg.png" group-title="TVRI",Bengkulu
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVRIGorontaloLogo2019_OnAirScreen.svg/320px-TVRIGorontaloLogo2019_OnAirScreen.svg.png" group-title="TVRI",Gorontalo
@@ -894,7 +894,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/in
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TVRIJabarLogo2019_OnAirScreen.svg/320px-TVRIJabarLogo2019_OnAirScreen.svg.png" group-title="TVRI",Jawa Barat
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TVRIJatengLogo2019_OnAirScreen.svg" group-title="TVRI",Jawa Tengah
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/TVRIJatengLogo2019.svg/320px-TVRIJatengLogo2019.svg.png" group-title="TVRI",Jawa Tengah
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/TVRIJatimLogo2019_OnAirScreen.svg/320px-TVRIJatimLogo2019_OnAirScreen.svg.png" group-title="TVRI",Jawa Timur
