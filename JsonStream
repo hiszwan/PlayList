@@ -1,11 +1,3 @@
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVRILogo2019_OnAirScreen.svg/320px-TVRILogo2019_OnAirScreen.svg.png" group-title="iTVnesia™",TVRI Nasional
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="iTVnesia™",TVRI Nasional ᕀ
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
-
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/METRO_TV.png" group-title="iTVnesia™",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -167,11 +159,17 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLHLP3Kx/digione.png" group-title="iTVnesia™",DigiOne
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
 #EXTINF:0 tvg-logo="https://shellfire.duniagames.co.id/images/dg-logo.png.pagespeed.ce.CWphQ3HTGf.png" group-title="iTVnesia™",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="iTVnesia™",Elshinta
 http://210.210.155.37/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:0 tvg-logo="https://golive.vn/data/assets/logo/2.png" group-title="iTVnesia™",GoLive
+http://golive.yn.lt:80/live/liga1/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920456-.png" group-title="iTVnesia™", Indonesiana
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
@@ -860,15 +858,30 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadi
 #EXTINF:0 tvg-logo="http://yufid.tv/wp-content/uploads/2017/02/logo-yufidtv-272.png" group-title="Religion",Yufid TV
 https://h1.intechmedia.net/intech/ch27.m3u8
 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="Religion",Life
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#EXTINF:0 tvg-logo="https://reformed21.tv/images/logo.png" group-title="Religion",Reformed 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Religion",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title="TVRI",Kanal 3
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVRILogo2019_OnAirScreen.svg/320px-TVRILogo2019_OnAirScreen.svg.png" group-title="iTVnesia™",TVRI Nasional
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/d/d9/TVRiLogo.svg/1280px-TVRiLogo.svg.png" group-title="TVRI",Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title="TVRI",Kanal 3
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="TVRI",Aceh
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
