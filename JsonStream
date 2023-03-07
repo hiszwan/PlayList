@@ -864,10 +864,10 @@ https://h1.intechmedia.net/intech/ch27.m3u8
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png" group-title="TVRI",Kanal 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title="TVRI",Kanal 3
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/320px-TVRI_Sport_2022.svg.png" group-title="TVRI",Sport
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/d/d9/TVRiLogo.svg/1280px-TVRiLogo.svg.png" group-title="TVRI",Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="TVRI",Aceh
