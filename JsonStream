@@ -303,7 +303,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/c/c0/FOX_Movies_Premium_Asia.png" group-title="Movies",Fox Movie
-https://bystream.my.id/token/bystreamtv/stream.m3u8?token\u003dyjUjGRUHtXtrnBxRFxFHtUwyTDV5RG1yZER5YjhzUllWbXNKeWUzZFcxRjE3V0ZKcWRncGJHQUhSdEorcjlscEFrOHhpK2NJVWpPWnQzM2Mvai9XRXRqM29UTUVBVGg4S1dXQSt3PT0\u0026exp\u003d1678095145\u0026hmac\u003d7627f0733da4e262abedb8847472679dc30adb5019619d7129f3dec7e8fdea3c
+https://bystream.my.id/token/bystreamtv/stream.m3u8?token=dyjUjGRUHtXtrnBxRFxFHtUwyTDV5RG1yZER5YjhzUllWbXNKeWUzZFcxRjE3V0ZKcWRncGJHQUhSdEorcjlscEFrOHhpK2NJVWpPWnQzM2Mvai9XRXRqM29UTUVBVGg4S1dXQSt3PT0&exp=1678095145&hmac=7627f0733da4e262abedb8847472679dc30adb5019619d7129f3dec7e8fdea3c
 
 #EXTINF:0 tvg-logo="https://static.epg.best/id/HITS.id.png" group-title="Movies",HITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
