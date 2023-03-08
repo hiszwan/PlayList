@@ -141,6 +141,9 @@ http://210.210.155.37/qwr9ew/s/s07/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
+#EXTINF:0 tvg-logo="https://www.indihometv.com/pimages/logo_rtv_small1.png" group-title="iTVnesia™",RTV ᕀ
+http://210.210.155.37/dr9445/h/h10/01.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="iTVnesia™",BALI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -167,9 +170,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="iTVnesia™",Elshinta
 http://210.210.155.37/qwr9ew/s/s10/01.m3u8
-
-#EXTINF:0 tvg-logo="https://golive.vn/data/assets/logo/2.png" group-title="iTVnesia™",GoLive
-http://golive.yn.lt:80/live/liga1/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920456-.png" group-title="iTVnesia™", Indonesiana
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
@@ -970,3 +970,4 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDA
 
 
 <!--Remark-->
+
