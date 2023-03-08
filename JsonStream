@@ -624,7 +624,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 #EXTINF:0 tvg-logo="https://nabjonline.org/wp-content/uploads/2020/09/22-NABJ-news.docx.jpg" group-title="World News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="World News",AfricaNews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="World News",AfricaNews
 https://ythls.onrender.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png" group-title="World News",Al Jazeera
