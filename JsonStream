@@ -464,7 +464,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NBA_TV_II.svg/revision/latest/scale-to-width-down/250?cb=20171022124402" group-title="Entertainment",NBA TV
-https://no2.onlinewebtv.lol/ddy1/premium404/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/\User-agent=REDLINECLIENT
+https://no2.onlinewebtv.lol/ddy1/premium404/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNpeZXtGmIaTjc7PHJ_IPX8BCPr7XWndgLlYB4I3sHCeWva9nl_ARKhqlZ9kYn26Ybg&usqp=CAU" group-title="Entertainment",OneGolf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
