@@ -578,6 +578,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
+#EXTINF:0 tvg-logo="" group-title="Knowledge",People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Knowledge",Pet Collective
+https://jukin-thepetcollective-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
