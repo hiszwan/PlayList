@@ -4,6 +4,11 @@
       "domain": "https://nyanv-live-cdn.mncnow.id",
       "drm_multi_session": true,
       "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz"
+    },
+    {
+      "domain": "https://live5-ott.izzigo.tv",
+      "drm_multi_session": true,
+      "drm_url": "https://gowv.izzigo.tv:8063/?deviceId\u003dY2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj"
     }
   ],
   "categories": [
@@ -473,8 +478,8 @@
 		},
 		{
 			"cid": 3,
-			"name": "HBO",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd"
+			"name": "HBO2",
+			"stream_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd"
 		},
 		{
 			"cid": 3,
