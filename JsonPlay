@@ -379,7 +379,7 @@
 		{
 			"cid": 2,
 			"name": "jpm",
-			"stream_url": "http://122.248.43.138:1935/ch6/myStream/live.m3u8"
+			"stream_url": "http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8"
 		},
 		{
 			"cid": 2,
@@ -717,7 +717,7 @@
 		{
 			"cid": 5,
 			"name": "AFN",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd"
+			"stream_url": "http://103.152.118.53:80/streams/efemeks/aefen/index.m3u8"
 		},
 		{
 			"cid": 5,
