@@ -463,11 +463,6 @@
 		},
 		{
 			"cid": 3,
-			"name": "Cinemax",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
-		},
-		{
-			"cid": 3,
 			"name": "Galaxy",
 			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd"
 		},
@@ -478,23 +473,28 @@
 		},
 		{
 			"cid": 3,
-			"name": "HBO2",
+			"name": "HBO 2",
+			"stream_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd"
+		},
+		{
+			"cid": 3,
+			"name": "HBO Pop",
 			"stream_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd"
 		},
 		{
 			"cid": 3,
-			"name": "HBO Family",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
+			"name": "HBO Xtreme",
+			"stream_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd"
 		},
 		{
 			"cid": 3,
-			"name": "HBO Hits",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
+			"name": "HBO +",
+			"stream_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd"
 		},
 		{
 			"cid": 3,
-			"name": "HBO Signature",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
+			"name": "HBO Mundi",
+			"stream_url": "https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd"
 		},
 		{
 			"cid": 3,
@@ -577,7 +577,7 @@
 		{
 			"cid": 4,
 			"name": "Animal Planet",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
+			"stream_url": "http://103.152.118.53:80/streams/efemeks/animalplanet/index.m3u8"
 		},
 		{
 			"cid": 4,
@@ -617,17 +617,17 @@
 		{
 			"cid": 4,
 			"name": "Discovery Asia",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/hd-discovery_480/playlist.m3u8"
+			"stream_url": "http://103.152.118.53:80/streams/efemeks/diskaveriasia/index.m3u8"
 		},
 		{
 			"cid": 4,
 			"name": "Discovery Channel",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd"
+			"stream_url": "http://103.152.118.53:80/streams/efemeks/diskaveri/index.m3u8"
 		},
 		{
 			"cid": 4,
 			"name": "HGTV",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
+			"stream_url": "http://103.152.118.53:80/streams/efemeks/hageteve/index.m3u8"
 		},
 		{
 			"cid": 4,
@@ -817,7 +817,7 @@
 		{
 			"cid": 5,
 			"name": "TLC",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd"
+			"stream_url": "http://103.152.118.53:80/streams/efemeks/teelce/index.m3u8"
 		},
 		{
 			"cid": 6,
