@@ -439,7 +439,7 @@
 		{
 			"cid": 3,
 			"name": "AniPlus",
-			"stream_url": "http://210.210.155.37/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8"
+			"stream_url": "http://103.152.118.53:80/streams/anitambah/index.m3u8"
 		},
 		{
 			"cid": 3,
