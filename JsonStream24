@@ -406,11 +406,6 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Dubai TV
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5JUoxHu.png" group-title="Entertainment",GEM TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-http://103.152.118.53:80/play/trans/dash/100/4028c685840ff049018455fce9454360/manifest.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",RAI Italia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 
@@ -490,6 +485,11 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/320px-MTV_Live_2021_logo.svg.png" group-title="Entertainment",MTV Live
+https://av-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
