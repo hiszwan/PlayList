@@ -1071,10 +1071,10 @@ https://inspiratv.siar.us/inspiratv/live/chunks.m3u8|User-Agent=YoVideo/1.7 (Lin
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MZ9HHFLN/mt-tv.png" group-title="Religion",MT@TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/S/saudi-tv-qurran-channle-logo-5982C07E8E-seeklogo.com.png" group-title="Religion",Madinah TV
+#EXTINF:0 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religion",Madinah TV
 http://210.210.155.37/qwr9ew/s/s27/01.m3u8
 
-#EXTINF:0 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="Religion",Makkah TV
+#EXTINF:0 tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="Religion",Makkah TV
 http://210.210.155.37/qwr9ew/s/s28/01.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Muslim_TV.png" group-title="Religion",Muslim TV
