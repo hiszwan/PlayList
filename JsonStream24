@@ -406,18 +406,17 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Dubai TV
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5JUoxHu.png" group-title="Entertainment",GEM TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+http://103.152.118.53:80/play/trans/dash/100/4028c685840ff049018455fce9454360/manifest.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",RAI Italia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",TV3
-#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Aneka Brunei
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
@@ -739,9 +738,6 @@ https://kusnadipepenk.github.io/ntn/cn.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:0 tvg-logo="" group-title="Kids",Coco Melon
-https://devds.site/api/youlive.m3u8?v=WNOppbVkKu8
-
 #EXTINF:-1 tvg-logo="" group-title="Kids",Davinci
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
  
@@ -752,6 +748,9 @@ http://103.152.118.53:80/play/disnijeer/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://103.152.118.53:80/play/visyen/dash/Dreamwork-HD/master.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",EBS
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Happy Kids
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
