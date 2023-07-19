@@ -536,7 +536,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="Knowledge",Discovery Asia
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571181&extension=ts&play_token=PL3YAH5qTd
-http://103.152.118.53:80/streams/efemeks/diskaveriasia/index.m3u8
  
 #EXTINF:0 tvg-logo="https://i.imgur.com/9sYeQuS.png" group-title="Knowledge",Discovery Turbo
 http://103.152.118.53:80/play/diskaveriturbo/index.m3u8
