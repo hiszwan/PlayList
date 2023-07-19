@@ -994,7 +994,7 @@ http://rama-fm.simaya.net.id:8800/;
 
 
 #EXTINF:-1 tvg-logo="" group-title="Radio ID",Brava Jakarta
-http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585\u003d\u0026rj-tok\u003dAAABd8nJ38EAguSD-Yi56JrhPA\u0026rj-ttl\u003d5
+http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
 
 #EXTINF:-1 tvg-logo="" group-title="Radio ID",Cosmopolitan Jakarta
 http://n02.radiojar.com/u7d8heq3bnzuv
@@ -1036,7 +1036,7 @@ http://onlineradiobox.com/json/id/slow/play
 https://streamingv2.shoutcast.com/sonora-jakarta
 
 #EXTINF:-1 tvg-logo="" group-title="Radio ID",TraX Jakarta
-https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267\u003d\u0026rj-tok\u003dAAABd73ok20AEvV31cQDN-_2tg\u0026rj-ttl\u003d5
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
 
 #EXTINF:-1 tvg-logo="" group-title="Radio ID",Trijaya Jakarta
 http://202.147.199.101:8000/;
