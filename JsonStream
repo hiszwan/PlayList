@@ -886,8 +886,6 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 #EXTINF:-1 tvg-logo="https://trapac.net/wp-content/uploads/2018/03/logo-voa.png" group-title="World News",Voice of America
 https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/WeatherNation_logo.png" group-title="World News",WeatherNation
-https://siloh.pluto.tv/lilo/production/WeatherNation/NYC/master.m3u8
 
 
 
