@@ -389,7 +389,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:0 tvg-logo="https://static.epg.best/id/WarnerTV.id.png" group-title="Movies",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://cdn.macan.tv/img/zeebioskop.png" group-title="Movies",Zee Bioskop
