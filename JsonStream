@@ -166,10 +166,10 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="iTVnesia™",Jawa Pos TV
-https://v2.siar.us/jawapostv/live/playlist.m3u8
+#https://v2.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="iTVnesia™",JITV
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+#https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png" group-title="iTVnesia™",jpm
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
@@ -191,7 +191,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/200px-Moji_blue.svg.png" group-title="iTVnesia™",Moji
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="iTVnesia™",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
@@ -200,7 +200,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/OvK16mw.png" group-title="iTVnesia™",Usee Prime
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/IE.png" group-title="iTVnesia™",Infotaiment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -467,6 +467,9 @@ http://210.210.155.37/uq2663/h/h152/index2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KBS_World_24_logo.svg/320px-KBS_World_24_logo.svg.png" group-title="Entertainment",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mbc-group-logo-7FD460601C-seeklogo.com.png" group-title="Entertainment",MBC
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/320px-Rai_Italia_-_Logo_2017.svg.png" group-title="Entertainment",RAI Italia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 
@@ -475,10 +478,20 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
 https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png" group-title="Entertainment",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
+
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b1bdb9148f026bd6dfd9d.png" group-title="Entertainment",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
 https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
+#EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="Entertainment",Awesome TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Entertainment",OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -731,9 +744,6 @@ https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="Knowledge",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/0d10cf18-cd46-4104-8487-6995f7677bb6_Weatherspy+-+Channel+Logo.png" group-title="Knowledge",Weather Spy
-https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-id="XploreTV.us" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="Knowledge",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
@@ -924,7 +934,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png" group-title="Kids",Cinemachi Kids
 https://av-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-
+ 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/320" group-title="Kids",Davinci
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
 
