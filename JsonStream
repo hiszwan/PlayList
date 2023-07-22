@@ -1048,10 +1048,6 @@ https://inspiratv.siar.us/inspiratv/live/chunks.m3u8|User-Agent=YoVideo/1.7 (Lin
 #EXTINF:-1 tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-gold-120px.png" group-title="Religion",Iqra TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/XT9ke0Q.png" group-title="Religion",Izzah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://h1.intechmedia.net/intech/ch7.m3u8
-
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MZ9HHFLN/mt-tv.png" group-title="Religion",MT@TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
@@ -1086,21 +1082,26 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jq9TXjRm/1680792670219.png" group-title="Religion",Naajiya TV
-https://h1.intechmedia.net/intech/ch7.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:0 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" group-title="Religion",Rasyaad TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://h1.intechmedia.net/intech/ch6.m3u8
+https://h1.intechmedia.net/intech/ch7.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3RZ9GrQf/niaga-tv-logo.png" group-title="Religion",Niaga TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:0 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" group-title="Religion",Rasyaad TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch6.m3u8
 
 #EXTINF:0 tvg-logo="https://static.epg.best/id/RodjaTV.id.png" group-title="Religion",Rodja TV
 http://210.210.155.37/qwr9ew/s/s14/01.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="Religion",Salam TV
 https://h1.intechmedia.net/intech/ch12.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/p_9x6fHQo7lSfn24AB_QlWEtyFXHyost0PuXVgmo-EVlgdCGnyxcMQ3YYO3pnv9YOOs" group-title="Religion",SJP Sunnah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch17.m3u8
 
 #EXTINF:0 tvg-logo="https://www.surau.tv/images/logosurautvvalid.png" group-title="Religion",Surau TV
 https://h1.intechmedia.net/intech/ch3.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
