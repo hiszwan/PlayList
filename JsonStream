@@ -903,7 +903,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fL0tmj0m/Biznet-Home-Kids.png" group-title="Kids",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
-#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/761/105/png-transparent-logo-boomerang-television-channel-high-definition-television-design-television-text-logo.png" group-title="Kids",Boomerang
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="Kids",Boomerang
 http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/165109
  
 #EXTINF:0 tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="Kids",Cartoon Network
