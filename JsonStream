@@ -924,7 +924,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png" group-title="Kids",Cinemachi Kids
 https://av-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
- 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/320" group-title="Kids",Davinci
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
 
