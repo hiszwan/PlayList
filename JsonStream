@@ -605,9 +605,6 @@ https://av-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/320px-MTV_Live_2021_logo.svg.png" group-title="Entertainment",MTV Live
 https://av-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png" group-title="Entertainment",MTV USA
-https://webudit.onlinewebtv.lol/lb/premium371/index.m3u8|referer=https://widevine.licenses4.me/|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png" group-title="Entertainment",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
