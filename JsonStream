@@ -1018,6 +1018,9 @@ https://tv.aliman.id/aliman/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch24.m3u8
 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/tyjr8MRn/SSN-TIVI-2-13.png" group-title="Religion",Alwafa Tarim TV
+#https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png" group-title="Religion",Ashiil TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
@@ -1086,6 +1089,9 @@ https://h1.intechmedia.net/intech/ch6.m3u8
 
 #EXTINF:0 tvg-logo="https://static.epg.best/id/RodjaTV.id.png" group-title="Religion",Rodja TV
 http://210.210.155.37/qwr9ew/s/s14/01.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="Religion",Salam TV
+https://h1.intechmedia.net/intech/ch12.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 #EXTINF:0 tvg-logo="https://www.surau.tv/images/logosurautvvalid.png" group-title="Religion",Surau TV
 https://h1.intechmedia.net/intech/ch3.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
