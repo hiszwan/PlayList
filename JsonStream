@@ -1011,8 +1011,13 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch4.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/5HJxlCN.png" group-title="Religion",Al-Bahjah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch64.m3u8
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Al-iman_TV.png" group-title="Religion",Al-Iman
-https://tv.aliman.id/aliman/live.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch9.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/w62SC7C.png" group-title="Religion",Al-Furqon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1045,7 +1050,7 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/XT9ke0Q.png" group-title="Religion",Izzah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://h1.intechmedia.net/intech/ch27.m3u8
+https://h1.intechmedia.net/intech/ch7.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MZ9HHFLN/mt-tv.png" group-title="Religion",MT@TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
@@ -1086,6 +1091,10 @@ https://h1.intechmedia.net/intech/ch7.m3u8|User-agent=Mozilla/5.0 (Windows NT 10
 #EXTINF:0 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" group-title="Religion",Rasyaad TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3RZ9GrQf/niaga-tv-logo.png" group-title="Religion",Niaga TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch10.m3u8
 
 #EXTINF:0 tvg-logo="https://static.epg.best/id/RodjaTV.id.png" group-title="Religion",Rodja TV
 http://210.210.155.37/qwr9ew/s/s14/01.m3u8
