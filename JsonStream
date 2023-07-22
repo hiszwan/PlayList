@@ -1019,7 +1019,7 @@ https://tv.aliman.id/aliman/live.m3u8
 https://h1.intechmedia.net/intech/ch24.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tyjr8MRn/SSN-TIVI-2-13.png" group-title="Religion",Alwafa Tarim TV
-#https://ammedia.siar.us/ammedia/live/playlist.m3u8
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png" group-title="Religion",Ashiil TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
