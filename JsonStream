@@ -160,6 +160,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0HTV5fb/indonesiana.png" group-title="iTVnesia™",Indonesiana
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_GPRTV.png" group-title="iTVnesia™",GPR TV
+#http://wowza.convergen.co:1935/gprtv/myLive/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Logo_Jak_tv_(2005-2009).png" group-title="iTVnesia™",JAK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -199,7 +202,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="iTVnesia™",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/OvK16mw.png" group-title="iTVnesia™",Usee Prime
+#EXTINF:0 tvg-logo="https://i.imgur.com/xaAt1Zi.png" group-title="iTVnesia™",Usee Prime
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/IE.png" group-title="iTVnesia™",Infotaiment
@@ -459,6 +462,10 @@ https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://younghollywood.com/templates/yh2015/images/YH_Logo_W.png" group-title="Entertainment",Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Amarin_TV_logo.png" group-title="Entertainment",Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" group-title="Entertainment",Dubai TV
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
 
@@ -509,7 +516,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Xv4IFl.png" group-title="Entertainment",Nippon TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png" group-title="Entertainment",Anhui TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
