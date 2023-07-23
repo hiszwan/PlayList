@@ -949,15 +949,19 @@ https://av-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-K
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://daddy-thecodecrafters-74aca66ddbd8.herokuapp.com/api?id=312
+http://webudit.cdnhks.lol/lb/premium312/index.m3u8
+#https://daddy-thecodecrafters-74aca66ddbd8.herokuapp.com/api?id=312
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7d4qj7l.png" group-title="Kids",Disney Jr
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162511
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/4/44/Disney_XD_-_Logo_(2009).png" group-title="Kids",Disney XD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://daddy-thecodecrafters-74aca66ddbd8.herokuapp.com/api?id=314
+http://webudit.cdnhks.lol/lb/premium314/index.m3u8
+#https://daddy-thecodecrafters-74aca66ddbd8.herokuapp.com/api?id=314
 
 #EXTINF:-1 tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png" group-title="Kids",Dreamwork
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
