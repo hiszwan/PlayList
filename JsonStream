@@ -933,7 +933,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-http://103.152.118.53:80/streams/trans/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+#http://103.152.118.53:80/streams/trans/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
  
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/thebabyeinstein/images/9/9a/Logo-1.png" group-title="Kids",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -948,8 +948,14 @@ https://av-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-K
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/320" group-title="Kids",Davinci
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney
+https://daddy-thecodecrafters-74aca66ddbd8.herokuapp.com/api?id=312
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7d4qj7l.png" group-title="Kids",Disney Jr
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162511
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/4/44/Disney_XD_-_Logo_(2009).png" group-title="Kids",Disney XD
+https://daddy-thecodecrafters-74aca66ddbd8.herokuapp.com/api?id=314
 
 #EXTINF:-1 tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png" group-title="Kids",Dreamwork
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
