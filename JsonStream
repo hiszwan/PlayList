@@ -464,7 +464,7 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Amarin_TV_logo.png" group-title="Entertainment",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" group-title="Entertainment",Dubai TV
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
