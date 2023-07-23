@@ -933,7 +933,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-#http://103.152.118.53:80/streams/trans/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+http://103.152.118.53:80/streams/trans/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
  
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/thebabyeinstein/images/9/9a/Logo-1.png" group-title="Kids",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -968,10 +968,16 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest" group-title="Kids",Horee
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jno6Gpj.png" group-title="Kids",IndiKids
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298539
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/XdhRaYM.png" group-title="Kids",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
+https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
 
 #EXTINF:0 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids",Miao Mi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -997,6 +1003,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png" group-title="Kids",PBS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2016/02/a4-planeta-junior.png" group-title="Kids",Planeta Jr
+https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
@@ -1008,6 +1017,9 @@ https://legochannel-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/25/ToonMax_old.png" group-title="Kids",ToonMax
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/38/250px-Logo_upin_dan_ipin.png" group-title="Kids",Upin Ipin
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298501
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
