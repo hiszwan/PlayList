@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
- 
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/xTyvkrZK/logo-beritasatu-small1.png" group-title="iTVnesia™",Berita Satu ᕀ
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
@@ -251,19 +251,19 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
 http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family ᕀ
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197055
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197055
 
 #EXTINF:0 tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
 http://103.180.119.90:9911/stream/channelid/629885182?profile=pass
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movies",HBO Hits ᕀ
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/196480
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
  
 #EXTINF:0 tvg-logo="https://static.epg.best/id/HBOSignature.id.png" group-title="Movies",HBO Signature
 http://103.180.119.90:9911/stream/channelid/1913607566?profile=pass
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies",HBO Signature ᕀ
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/221948
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/221948
  
 #EXTINF:0 tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="Movies",Cinemax
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197964
@@ -420,7 +420,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network
+#EXTINF:-1 tvg-logo="https://imgur.com/JluZpZ4.png" group-title="Entertainment",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Entertainment",Global Trekker
