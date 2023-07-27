@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-
+ 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/xTyvkrZK/logo-beritasatu-small1.png" group-title="iTVnesia™",Berita Satu ᕀ
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
