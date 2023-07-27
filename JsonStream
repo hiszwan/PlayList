@@ -246,6 +246,7 @@ http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png" group-title="Movies",HBO ᕀ
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197972
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197972
 
 #EXTINF:0 tvg-logo="https://static.epg.best/id/HBOFamily.id.png" group-title="Movies",HBO Family
 http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
@@ -900,7 +901,7 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Angry_Birds_Toons_logo.png" group-title="Kids",Angry Birds Toon
-#http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/298493
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/298493
 
 #EXTINF:0 tvg-logo="https://telegra.ph/file/bef929065afa100b0e450.png" group-title="Kids",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -991,7 +992,7 @@ https://i.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
-https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
+#https://raw.githubusercontent.com/thefirefox12537/streams/master/mentariteve.m3u8
 
 #EXTINF:0 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids",Miao Mi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
