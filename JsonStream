@@ -86,7 +86,7 @@ http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/bwS3sVQ8/indosiar.png" group-title="iTVnesia™",Indosiar ᕀ
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
-#http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162138
+##http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162138
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="iTVnesia™",SCTV
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8
