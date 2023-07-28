@@ -365,6 +365,9 @@ http://103.152.118.53:80/play/efemeks/paramountnetworek/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j29VztH8/rockaction.png" group-title="Movies",Rock Action
 http://210.210.155.37/session/c41b46b8-6703-11ec-9eaf-b82a72d63267/dr9445/h/h15/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="Movies",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -379,12 +382,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-#EXTINF:0 tvg-logo="https://static.epg.best/id/WarnerTV.id.png" group-title="Movies",Warner TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://cdn.macan.tv/img/zeebioskop.png" group-title="Movies",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -929,12 +926,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u
 #EXTINF:0 tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="Kids",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/p1Qvr0I.png" group-title="Kids",Cartoon TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-#http://103.152.118.53:80/streams/trans/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
- 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/thebabyeinstein/images/9/9a/Logo-1.png" group-title="Kids",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1026,6 +1017,9 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/327-3270547_tayo-the-little-bus-logo-png.png" group-title="Kids",Tayo TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",The Official LEGO
 https://legochannel-vizio.amagi.tv/playlist.m3u8
