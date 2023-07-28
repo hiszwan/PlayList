@@ -86,6 +86,7 @@ http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/bwS3sVQ8/indosiar.png" group-title="iTVnesia™",Indosiar ᕀ
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162138
+#http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="iTVnesia™",SCTV
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8
@@ -420,7 +421,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/X0ZLKfz.png" group-title="Entertainment",Game Show Network
+#EXTINF:-1 tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Entertainment",Global Trekker
@@ -1062,12 +1063,15 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png" group-title="Religion",Ashiil TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/3imBXOx.png" group-title="Religion",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+ 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HlR54KL.png" group-title="Religion",Binbaz TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://h1.intechmedia.net/intech/ch22.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MfogyNo.png" group-title="Religion",DEI Kids TV
-https://h1.intechmedia.net/intech/ch80.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://h1.intechmedia.net/intech/ch80.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="Religion",Hijrah TV
 https://h1.intechmedia.net/intech/ch8.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1081,6 +1085,9 @@ https://inspiratv.siar.us/inspiratv/live/chunks.m3u8|User-Agent=YoVideo/1.7 (Lin
 #EXTINF:-1 tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-gold-120px.png" group-title="Religion",Iqra TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/bJdFH7x.png" group-title="Religion",Islam Channel
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
+ 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MZ9HHFLN/mt-tv.png" group-title="Religion",MT@TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
@@ -1175,7 +1182,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/TV_Parlemen.png" group-title="Religion",TVR Parlemen
-https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
+#https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
+
+
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVRILogo2019_OnAirScreen.svg/320px-TVRILogo2019_OnAirScreen.svg.png" group-title="TVRI",Nasional
