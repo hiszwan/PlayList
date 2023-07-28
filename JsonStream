@@ -548,7 +548,7 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cricket-logo-DC6957DD66-seeklogo.com.png" group-title="Entertainment",Cricket
 https://webudit.cdnhks.lol/lb/premium346/index.m3u8|referer=https://widevine.licenses4.me/|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://imgur.com/obDUvop.png" group-title="Entertainment",Dubai Racing
+#EXTINF:-1 tvg-logo="https://imgur.com/XlqlBwA.png" group-title="Entertainment",Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="Entertainment",EuroSport
@@ -867,7 +867,7 @@ http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/320px-Logo_Rainews_it.svg.png" group-title="World News",RAI News24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/i7tuymU.png" group-title="World News",Reuters
+#EXTINF:0 tvg-logo="https://imgur.com/sSSJ7r9.png" group-title="World News",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arm-tv.com/wp-content/uploads/2016/06/rt-russia-today-hd-150x150.png" group-title="World News",Rusia Today
