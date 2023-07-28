@@ -430,7 +430,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EJV68VtXUAAM3fs.png" group-title="Entertainment",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/r0WnzVj.png" group-title="Entertainment",Just for Laughs
+#EXTINF:-1 tvg-logo="https://imgur.com/zRwrMr8.png" group-title="Entertainment",Just for Laughs
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
@@ -649,7 +649,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsP9P65N/bonapetit.png" group-title="Knowledge",Bonappétit
 https://bonappetit-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/shlrMi3.png" group-title="Knowledge",Canal Motors TV
+#EXTINF:-1 tvg-logo="https://imgur.com/vLfxdZ9.png" group-title="Knowledge",Canal Motors TV
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cars.tv/files/2018/09/cropped-CARS_LOGO.png" group-title="Knowledge",Cars
