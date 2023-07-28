@@ -867,7 +867,7 @@ http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/320px-Logo_Rainews_it.svg.png" group-title="World News",RAI News24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/sSSJ7r9.png" group-title="World News",Reuters
+#EXTINF:0 tvg-logo="https://imgur.com/mfrT0ZA.png" group-title="World News",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arm-tv.com/wp-content/uploads/2016/06/rt-russia-today-hd-150x150.png" group-title="World News",Rusia Today
@@ -1453,3 +1453,4 @@ http://u.klikhost.net:7134/;
 
 
 <!--Remark-->
+
