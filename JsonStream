@@ -347,7 +347,7 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/imyeDJq.png" group-title="Movies",Movie Sphere
+#EXTINF:-1 tvg-logo="https://imgur.com/zW9Eoc3.png" group-title="Movies",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://mycinema.asia/img/logo.png" group-title="Movies",My Cinema
@@ -762,7 +762,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 #EXTINF:0 tvg-logo="https://i.postimg.cc/XYqB3xZb/abcnews.png" group-title="World News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/e9g0utD" group-title="World News",AfricaNews
+#EXTINF:-1 tvg-logo="https://imgur.com/UBfrnK7.png" group-title="World News",AfricaNews
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/al-jazeera-tv-logo-96D0C87FBC-seeklogo.com.png" group-title="World News",Al Jazeera
@@ -867,7 +867,7 @@ http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/320px-Logo_Rainews_it.svg.png" group-title="World News",RAI News24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/rezrEAb.png" group-title="World News",Reuters
+#EXTINF:0 tvg-logo="https://imgur.com/i7tuymU.png" group-title="World News",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://arm-tv.com/wp-content/uploads/2016/06/rt-russia-today-hd-150x150.png" group-title="World News",Rusia Today
