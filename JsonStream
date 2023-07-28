@@ -875,7 +875,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:0 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6523.1650797272.png" group-title="World News",Sky News
+#EXTINF:0 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo-2018.png" group-title="World News",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TRT_World_Radio_logo.svg/320px-TRT_World_Radio_logo.png" group-title="World News",Turkish Radio & TV
