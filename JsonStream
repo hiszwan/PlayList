@@ -200,11 +200,6 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_s
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/200px-Moji_blue.svg.png" group-title="iTVnesia™",Moji
 #http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:0 tvg-logo="https://i.imgur.com/Vzg8TUC.png" group-title="iTVnesia™",Musik Indonesia
-#https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="iTVnesia™",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
@@ -957,10 +952,8 @@ http://webudit.cdnhks.lol/lb/premium314/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dreamworks-asia.com/images/dwalogo.png" group-title="Kids",Dreamwork
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="Kids",Dunia Anak
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264753
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png" group-title="Kids",EBS
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
