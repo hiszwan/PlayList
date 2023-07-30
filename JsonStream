@@ -386,7 +386,8 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/482px-Paramount_Network.svg.png" group-title="Movies",Paramount
-http://103.152.118.53:80/play/efemeks/paramountnetworek/index.m3u8
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298564
+#http://103.152.118.53:80/play/efemeks/paramountnetworek/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j29VztH8/rockaction.png" group-title="Movies",Rock Action
 http://210.210.155.37/session/c41b46b8-6703-11ec-9eaf-b82a72d63267/dr9445/h/h15/01.m3u8
@@ -409,10 +410,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
+#EXTINF:0 tvg-logo="https://static.epg.best/id/WarnerTV.id.png" group-title="Movies",Warner TV
+#http://xtv.ooo:8080/195525/195525/351059
+
 #EXTINF:0 tvg-logo="https://cdn.macan.tv/img/zeebioskop.png" group-title="Movies",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TheWorldOnArirang.png" group-title="Entertainment",Arirang
@@ -467,7 +473,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKNAva5.png" group-title="Entertainment",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/agGDRjM" group-title="Entertainment",Sony GEM
+#EXTINF:-1 tvg-logo="https://imgur.com/agGDRjM.png" group-title="Entertainment",Sony GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_(2020).png" group-title="Entertainment",Sony One
@@ -840,7 +846,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNew
 https://nyanv-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/400px-CNN-International-Logo.png" group-title="World News",CNN International
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/264778
+#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
 
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="World News",DW TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
