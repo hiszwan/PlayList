@@ -969,7 +969,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:0 tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="Kids",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
  
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png" group-title="Kids",Cartoonito
+#EXTINF:0 tvg-logo="https://imgur.com/sAhbMx1.png" group-title="Kids",Cartoonito
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/165109
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
 #http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/165109
