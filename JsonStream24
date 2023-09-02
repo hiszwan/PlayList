@@ -531,11 +531,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 #EXTINF:-1 group-title="Entertainment",MTV Live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Entertainment",MTV Live
-https://av-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
-
 #EXTINF:0 group-title="Entertainment",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -546,6 +541,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3
 
 #EXTINF:-1 group-title="Entertainment",Stingray Festival
 http://edge.linknetott.swiftserve.com/channelgroup5/cg545production/ch344/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Stingray Now
+http://edge.linknetott.swiftserve.com/channelgroup1/cg041production/ch345/index.m3u8
 
 
 
