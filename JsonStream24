@@ -757,7 +757,8 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:0 group-title="Kids",AniPlus
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298504
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
+#http://45.129.133.15:8080/3f6d5b2f/4b60123137/298504
 #https://kusnadipepenk.github.io/campeign/anplus.m3u8
 
 #EXTINF:0 group-title="Kids",Baby Shark
@@ -768,13 +769,16 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-
 #EXTINF:-1 group-title="Kids",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:0 group-title="Kids",Boomerang
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-#http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/165109
+http://aflaxtv.xyz:8080/live/Vladisergeevic/7eef2c4388/1125.m3u8
+
+#EXTINF:0 tvg-logo="https://imgur.com/zhoTXAy.png" group-title="Kids",Cartoonito
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/165109
+#http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/165109
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
 
 #EXTINF:0 group-title="Kids",Cartoon Network
 https://kusnadipepenk.github.io/ntn/cn.m3u8
