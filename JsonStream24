@@ -1,12 +1,4 @@
 {
-  "drm_licenses": [
-    {
-      "drm_id": "av",
-      "drm_type": "widevine",
-      "drm_key": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-    }
-	],
-
   "categories": [
 	{
 	"name": "Nasional",
@@ -18,3 +10,4 @@
     ]
 		}
     ]
+}
