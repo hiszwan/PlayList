@@ -1,1 +1,4 @@
-blank
+{"categories":
+[{"channels":[
+{"name":"Berita Satu","stream_url":"https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8"}
+]}]}
