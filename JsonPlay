@@ -3,7 +3,7 @@
 [{"id": 0,"name": "iTVnesia"},{"id": 1,"name": "Movies"},{"id": 2,"name": "International"},{"id": 3,"name": "Knowledge"},{"id": 4,"name": "World News"},{"id": 5,"name": "Entertainment"},{"id": 6,"name": "Kids"},{"id": 7,"name": "Religion"},{"id": 8,"name": "Radio ID"}],
 
 "channels":[
-{"cid": 0,"name":"Berita Satu","stream_url":"https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8"},
+{"cid": 0,"name":"Berita Satu","stream_url":"https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8"},
 {"cid": 0,"name":"Investor Daily","stream_url":"https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8"},
 {"cid": 0,"name":"CNBC Indonesia","stream_url":"https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8"},
 {"cid": 0,"name":"CNN Indonesia","stream_url":"https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1445470530_b384000_sleng.m3u8"},
@@ -20,7 +20,7 @@
 {"cid": 0,"name":"Trans 7","stream_url":"https://video.detik.com/trans7/smil:trans7.smil/index.m3u8"},
 {"cid": 0,"name":"Trans TV","stream_url":"https://video.detik.com/transtv/smil:transtv.smil/index.m3u8"},
 {"cid": 0,"name":"MD TV","stream_url":"http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type\u003dweb\u0026amp;userid\u003dwnctpm5uf2j\u0026amp;chname\u003dNET.","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 "},
-{"cid": 0,"name":"ANTV","stream_url":"http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type\u003dweb\u0026amp;userid\u003dwnctpm5uf2j\u0026amp;chname\u003dantv","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 "},
+{"cid": 0,"name":"ANTV","stream_url":"http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 "},
 {"cid": 0,"name":"Rajawali TV","stream_url":"http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 "},
 {"cid": 0,"name":"BandungTV","stream_url":"http://202.150.153.254:65500/bandungtvWEBSITE.m3u8"},
 {"cid": 0,"name":"Elshinta","stream_url":"https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"},
